@@ -1,0 +1,1983 @@
+#EXTM3U url-tvg="http://2.56.164.181/epg.xml.gz?q=eyJ1c2VySWQiOiJ0ZXN0In0.O2NtoPYMyNSQUxDLCHixQwezneQOFMrVUWCIOEvH5wdsyihh2LbQoq37IfNxQBB8qNAPJ_6dDlUVGwq5uo9SPg" description="Medium" size="Medium" background="#11609e"
+#EXTINF:0 group-title="Общероссийские" tvg-id="hlsproxy-362" tvg-logo="http://static.g-cdn.app/streams/pervyj.png" tvg-rec="7",Первый канал
+#EXTGRP:Региональное
+#EXTINF:-1 tvg-id="NVKSakha.ru",НВК Саха (1080p) [Not 24/7]
+https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
+#EXTGRP:Общероссийские
+http://2.56.164.181/channel/n4578ec40/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Общероссийские" tvg-id="hlsproxy-362" tvg-logo="http://static.g-cdn.app/streams/pervyj-hd-orig.png" tvg-rec="7",Первый HD
+#EXTGRP:Общероссийские
+http://2.56.164.181/channel/6581d80e/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Общероссийские" tvg-id="hlsproxy-391" tvg-logo="http://static.g-cdn.app/streams/rossija1.png" tvg-rec="7",Россия 1
+#EXTGRP:Общероссийские
+http://2.56.164.181/channel/n5327ce42/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Общероссийские" tvg-id="hlsproxy-391" tvg-logo="http://static.g-cdn.app/streams/rossija-hd-orig.png" tvg-rec="7",Россия 1 HD
+#EXTGRP:Общероссийские
+http://2.56.164.181/channel/1ac50e9e/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Общероссийские" tvg-id="hlsproxy-319" tvg-logo="http://static.g-cdn.app/streams/ntv.png" tvg-rec="7",НТВ
+#EXTGRP:Общероссийские
+http://2.56.164.181/channel/5459375/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Общероссийские" tvg-id="hlsproxy-319" tvg-logo="http://static.g-cdn.app/streams/ntv-hd-orig.png" tvg-rec="7",НТВ HD
+#EXTGRP:Общероссийские
+http://2.56.164.181/channel/7ba33d87/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Общероссийские" tvg-id="hlsproxy-321" tvg-logo="http://static.g-cdn.app/streams/ntv-mir.png" tvg-rec="7",НТВ Мир
+#EXTGRP:Общероссийские
+http://2.56.164.181/channel/n72caf07/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Общероссийские" tvg-id="hlsproxy-439" tvg-logo="http://static.g-cdn.app/streams/TNT.png" tvg-rec="7",ТНТ
+#EXTGRP:Общероссийские
+http://2.56.164.181/channel/545a5af/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Общероссийские" tvg-id="hlsproxy-439" tvg-logo="http://static.g-cdn.app/streams/tnt-hd-orig.png" tvg-rec="7",ТНТ HD
+#EXTGRP:Общероссийские
+http://2.56.164.181/channel/n7c13b6f3/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Общероссийские" tvg-id="hlsproxy-336" tvg-logo="http://static.g-cdn.app/streams/tnt-4.png" tvg-rec="7",ТНТ4
+#EXTGRP:Общероссийские
+http://2.56.164.181/channel/n5c90ef9b/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Общероссийские" tvg-id="hlsproxy-336" tvg-logo="http://static.g-cdn.app/streams/tnt4-hd-orig.png" tvg-rec="7",ТНТ4 HD
+#EXTGRP:Общероссийские
+http://2.56.164.181/channel/n65aa569/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Общероссийские" tvg-id="hlsproxy-407" tvg-logo="http://static.g-cdn.app/streams/CTC.png" tvg-rec="7",СТС
+#EXTGRP:Общероссийские
+http://2.56.164.181/channel/545a288/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Общероссийские" tvg-id="hlsproxy-407" tvg-logo="http://static.g-cdn.app/streams/ctc-hd.png" tvg-rec="7",СТС HD
+#EXTGRP:Общероссийские
+http://2.56.164.181/channel/n7d828e6c/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Общероссийские" tvg-id="hlsproxy-409" tvg-logo="http://static.g-cdn.app/streams/sts-love.png" tvg-rec="7",СТС Love
+#EXTGRP:Общероссийские
+http://2.56.164.181/channel/n271621d6/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Общероссийские" tvg-id="hlsproxy-246" tvg-logo="http://static.g-cdn.app/streams/domashnij.png" tvg-rec="7",Домашний
+#EXTGRP:Общероссийские
+http://2.56.164.181/channel/n3b262e14/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Общероссийские" tvg-id="hlsproxy-246" tvg-logo="http://static.g-cdn.app/streams/domashnij-hd-orig.png" tvg-rec="7",Домашний HD
+#EXTGRP:Общероссийские
+http://2.56.164.181/channel/n400ba850/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Общероссийские" tvg-id="hlsproxy-680" tvg-logo="http://static.g-cdn.app/streams/perec.png" tvg-rec="7",Перец
+#EXTGRP:Общероссийские
+http://2.56.164.181/channel/n35ab705d/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Общероссийские" tvg-id="hlsproxy-382" tvg-logo="http://static.g-cdn.app/streams/ren-tv.png" tvg-rec="7",РЕН ТВ
+#EXTGRP:Общероссийские
+http://2.56.164.181/channel/n7fefeee0/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Общероссийские" tvg-id="hlsproxy-382" tvg-logo="http://static.g-cdn.app/streams/rentv-hd-orig.png" tvg-rec="7",РЕН ТВ HD
+#EXTGRP:Общероссийские
+http://2.56.164.181/channel/n3246a404/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Общероссийские" tvg-id="hlsproxy-432" tvg-logo="http://static.g-cdn.app/streams/tv-3.png" tvg-rec="7",ТВ3
+#EXTGRP:Общероссийские
+http://2.56.164.181/channel/545a06b/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Общероссийские" tvg-id="hlsproxy-432" tvg-logo="http://static.g-cdn.app/streams/tv3-hd-orig.png" tvg-rec="7",ТВ3 HD
+#EXTGRP:Общероссийские
+http://2.56.164.181/channel/n7e787b2f/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Общероссийские" tvg-id="hlsproxy-369" tvg-logo="http://static.g-cdn.app/streams/4e.png" tvg-rec="7",Че
+#EXTGRP:Общероссийские
+http://2.56.164.181/channel/n816867a/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Общероссийские" tvg-id="hlsproxy-259" tvg-logo="http://static.g-cdn.app/streams/zvezda.png" tvg-rec="7",Звезда
+#EXTGRP:Общероссийские
+http://2.56.164.181/channel/726762b1/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Общероссийские" tvg-id="hlsproxy-259" tvg-logo="http://static.g-cdn.app/streams/zvezda-hd.png" tvg-rec="7",Звезда HD
+#EXTGRP:Общероссийские
+http://2.56.164.181/channel/4d1654cb/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Общероссийские" tvg-id="hlsproxy-100298" tvg-logo="http://static.g-cdn.app/streams/zvezda-plus.png" tvg-rec="7",Звезда Плюс
+#EXTGRP:Общероссийские
+http://2.56.164.181/channel/62a292be/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Общероссийские" tvg-id="hlsproxy-100298" tvg-logo="http://static.g-cdn.app/streams/zvezda-plus-hd.png" tvg-rec="7",Звезда Плюс HD
+#EXTGRP:Общероссийские
+http://2.56.164.181/channel/44d30d9e/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Общероссийские" tvg-id="hlsproxy-434" tvg-logo="http://static.g-cdn.app/streams/tvc.png" tvg-rec="7",ТВЦ
+#EXTGRP:Общероссийские
+http://2.56.164.181/channel/545a45e/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Общероссийские" tvg-id="hlsproxy-434" tvg-logo="http://static.g-cdn.app/streams/tvc-hd-orig.png" tvg-rec="7",ТВЦ HD
+#EXTGRP:Общероссийские
+http://2.56.164.181/channel/n7cace802/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Общероссийские" tvg-id="hlsproxy-410" tvg-logo="http://static.g-cdn.app/streams/sankt-peterburg-hd.png" tvg-rec="7",Санкт-Петербург HD
+#EXTGRP:Общероссийские
+http://2.56.164.181/channel/n7cad6df1/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Общероссийские" tvg-id="hlsproxy-6013" tvg-logo="http://static.g-cdn.app/streams/centralnoe-tv.png" tvg-rec="7",Центральное телевидение
+#EXTGRP:Общероссийские
+http://2.56.164.181/channel/n59ae4dd3/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Общероссийские" tvg-id="hlsproxy-378" tvg-logo="http://static.g-cdn.app/streams/5kanal.png" tvg-rec="7",5 канал
+#EXTGRP:Общероссийские
+http://2.56.164.181/channel/n7d436931/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Общероссийские" tvg-id="hlsproxy-395" tvg-logo="http://static.g-cdn.app/streams/rossija-k.png" tvg-rec="7",Россия Культура
+#EXTGRP:Общероссийские
+http://2.56.164.181/channel/n5dd9ea2/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Общероссийские" tvg-id="hlsproxy-395" tvg-logo="http://static.g-cdn.app/streams/rossija-k-hd.png" tvg-rec="7",Россия Культура HD
+#EXTGRP:Общероссийские
+http://2.56.164.181/channel/66e13afe/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Общероссийские" tvg-id="hlsproxy-242" tvg-logo="http://static.g-cdn.app/streams/moskva-doverie.png" tvg-rec="7",Москва Доверие
+#EXTGRP:Общероссийские
+http://2.56.164.181/channel/n338acc1f/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Общероссийские" tvg-id="hlsproxy-418" tvg-logo="http://static.g-cdn.app/streams/souz.png" tvg-rec="7",Союз
+#EXTGRP:Общероссийские
+http://2.56.164.181/channel/n5c90dec2/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Общероссийские" tvg-id="hlsproxy-419" tvg-logo="http://static.g-cdn.app/streams/spas.png" tvg-rec="7",Спас
+#EXTGRP:Общероссийские
+http://2.56.164.181/channel/n5c90de99/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Общероссийские" tvg-id="hlsproxy-51060" tvg-logo="http://static.g-cdn.app/streams/krasnaja-linija.png" tvg-rec="7",Красная линия
+#EXTGRP:Общероссийские
+http://2.56.164.181/channel/n2e2d781c/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Общероссийские" tvg-id="hlsproxy-19" tvg-logo="http://static.g-cdn.app/streams/8-kanal.png" tvg-rec="7",8 канал
+#EXTGRP:Общероссийские
+http://2.56.164.181/channel/216f4892/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Общероссийские" tvg-id="hlsproxy-565" tvg-logo="http://static.g-cdn.app/streams/9-kanal.png" tvg-rec="7",9 Канал
+#EXTGRP:Общероссийские
+http://2.56.164.181/channel/549293b3/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Общероссийские" tvg-id="hlsproxy-325" tvg-logo="http://static.g-cdn.app/streams/otp.png" tvg-rec="7",ОТР
+#EXTGRP:Общероссийские
+http://2.56.164.181/channel/5459744/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Общероссийские" tvg-id="hlsproxy-325" tvg-logo="http://static.g-cdn.app/streams/otr-hd.png" tvg-rec="7",ОТР HD
+#EXTGRP:Общероссийские
+http://2.56.164.181/channel/7d5e7358/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Общероссийские" tvg-id="hlsproxy-299" tvg-logo="http://static.g-cdn.app/streams/mir.png" tvg-rec="7",Мир
+#EXTGRP:Общероссийские
+http://2.56.164.181/channel/545928c/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Общероссийские" tvg-id="hlsproxy-299" tvg-logo="http://static.g-cdn.app/streams/mir-hd.png" tvg-rec="7",Мир HD
+#EXTGRP:Общероссийские
+http://2.56.164.181/channel/7b395310/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Общероссийские" tvg-id="hlsproxy-300" tvg-logo="http://static.g-cdn.app/streams/mir-24.png" tvg-rec="7",Мир 24
+#EXTGRP:Общероссийские
+http://2.56.164.181/channel/7b395056/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Общероссийские" tvg-id="hlsproxy-300" tvg-logo="http://static.g-cdn.app/streams/mir-24-hd.png" tvg-rec="7",Мир 24 HD
+#EXTGRP:Общероссийские
+http://2.56.164.181/channel/n4d53b6fa/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Общероссийские" tvg-id="hlsproxy-411" tvg-logo="http://static.g-cdn.app/streams/sarafan.png" tvg-rec="7",Сарафан
+#EXTGRP:Общероссийские
+http://2.56.164.181/channel/n174e5906/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Общероссийские" tvg-id="hlsproxy-100267" tvg-logo="http://static.g-cdn.app/streams/gagsnetwork.png" tvg-rec="7",Gagsnetwork
+#EXTGRP:Общероссийские
+http://2.56.164.181/channel/13575270/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Общероссийские" tvg-id="hlsproxy-100267" tvg-logo="http://static.g-cdn.app/streams/gagsnetwork-hd.png" tvg-rec="7",Gagsnetwork HD
+#EXTGRP:Общероссийские
+http://2.56.164.181/channel/n413d2754/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Общероссийские" tvg-id="hlsproxy-22082" tvg-logo="http://static.g-cdn.app/streams/kvn-tv.png" tvg-rec="7",КВН ТВ
+#EXTGRP:Общероссийские
+http://2.56.164.181/channel/75a8b6e3/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Общероссийские" tvg-id="hlsproxy-377" tvg-logo="http://static.g-cdn.app/streams/piatnica.png" tvg-rec="7",Пятница
+#EXTGRP:Общероссийские
+http://2.56.164.181/channel/n4c12a6e1/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Общероссийские" tvg-id="hlsproxy-377" tvg-logo="http://static.g-cdn.app/streams/piatnica-hd-orig.png" tvg-rec="7",Пятница HD
+#EXTGRP:Общероссийские
+http://2.56.164.181/channel/51769f9d/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Общероссийские" tvg-id="hlsproxy-431" tvg-logo="http://static.g-cdn.app/streams/super.png" tvg-rec="7",Суббота
+#EXTGRP:Общероссийские
+http://2.56.164.181/channel/84aba32/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Общероссийские" tvg-id="hlsproxy-431" tvg-logo="http://static.g-cdn.app/streams/super-hd-orig.png" tvg-rec="7",Суббота HD
+#EXTGRP:Общероссийские
+http://2.56.164.181/channel/nfe5be56/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Общероссийские" tvg-id="hlsproxy-134" tvg-logo="http://static.g-cdn.app/streams/podmoskovje.png" tvg-rec="7",Телеканал 360
+#EXTGRP:Общероссийские
+http://2.56.164.181/channel/5b71813a/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Общероссийские" tvg-id="hlsproxy-134" tvg-logo="http://static.g-cdn.app/streams/telekanal-360-hd.png" tvg-rec="7",Телеканал 360 HD
+#EXTGRP:Общероссийские
+http://2.56.164.181/channel/5dadbda2/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Общероссийские" tvg-id="hlsproxy-474" tvg-logo="http://static.g-cdn.app/streams/yu-tv.png" tvg-rec="7",Ю ТВ
+#EXTGRP:Общероссийские
+http://2.56.164.181/channel/n5c9a7006/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Общероссийские" tvg-id="hlsproxy-227" tvg-logo="http://static.g-cdn.app/streams/vremya.png" tvg-rec="7",Время
+#EXTGRP:Общероссийские
+http://2.56.164.181/channel/n365dca3e/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Общероссийские" tvg-id="hlsproxy-156" tvg-logo="http://static.g-cdn.app/streams/rt-doc.png" tvg-rec="7",RT Док
+#EXTGRP:Общероссийские
+http://2.56.164.181/channel/n34a79b76/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Общероссийские" tvg-id="hlsproxy-156" tvg-logo="http://static.g-cdn.app/streams/russia-today-doc-hd.png" tvg-rec="7",RT Док HD
+#EXTGRP:Общероссийские
+http://2.56.164.181/channel/n7ca3a7ae/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Общероссийские" tvg-id="hlsproxy-151" tvg-logo="http://static.g-cdn.app/streams/rtvi.png" tvg-rec="7",RTVi
+#EXTGRP:Общероссийские
+http://2.56.164.181/channel/n5e5b44d3/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Общероссийские" tvg-id="hlsproxy-243" tvg-logo="http://static.g-cdn.app/streams/dozhd.png" tvg-rec="7",Дождь
+#EXTGRP:Общероссийские
+http://2.56.164.181/channel/n36428134/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Общероссийские" tvg-id="hlsproxy-243" tvg-logo="http://static.g-cdn.app/streams/dozhd-hd.png" tvg-rec="7",Дождь HD
+#EXTGRP:Общероссийские
+http://2.56.164.181/channel/n45390130/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Общероссийские" tvg-id="hlsproxy-51082" tvg-logo="http://static.g-cdn.app/streams/nastoyaschee-vremya-hd.png" tvg-rec="7",Настоящее время HD
+#EXTGRP:Общероссийские
+http://2.56.164.181/channel/n1499a60a/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Новости" tvg-id="hlsproxy-393" tvg-logo="http://static.g-cdn.app/streams/rossija24.png" tvg-rec="7",Россия 24
+#EXTGRP:Новости
+http://2.56.164.181/channel/n11d1f9ab/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Новости" tvg-id="hlsproxy-70" tvg-logo="http://static.g-cdn.app/streams/evronews.png" tvg-rec="0",EuroNews
+#EXTGRP:Новости
+http://2.56.164.181/channel/38c8f618/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Новости" tvg-id="hlsproxy-20151" tvg-logo="http://static.g-cdn.app/streams/izvestija.png" tvg-rec="0",Известия
+#EXTGRP:Новости
+http://2.56.164.181/channel/n1eba35ce/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Новости" tvg-id="hlsproxy-20151" tvg-logo="http://static.g-cdn.app/streams/izvestija-hd.png" tvg-rec="0",Известия HD
+#EXTGRP:Новости
+http://2.56.164.181/channel/388531aa/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Новости" tvg-id="hlsproxy-51166" tvg-logo="http://static.g-cdn.app/streams/360-novosti-hd.png" tvg-rec="7",360 Новости HD
+#EXTGRP:Новости
+http://2.56.164.181/channel/n43657a03/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Новости" tvg-id="hlsproxy-310" tvg-logo="http://static.g-cdn.app/streams/moskva-24.png" tvg-rec="0",Москва 24
+#EXTGRP:Новости
+http://2.56.164.181/channel/n6f38468f/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Новости" tvg-id="hlsproxy-380" tvg-logo="http://static.g-cdn.app/streams/rbk.png" tvg-rec="7",РБК
+#EXTGRP:Новости
+http://2.56.164.181/channel/5459cb1/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Новости" tvg-id="hlsproxy-380" tvg-logo="http://static.g-cdn.app/streams/rbk-hd.png" tvg-rec="7",РБК HD
+#EXTGRP:Новости
+http://2.56.164.181/channel/7fd5dacb/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Новости" tvg-id="hlsproxy-155" tvg-logo="http://static.g-cdn.app/streams/rt-english.png" tvg-rec="0",RT
+#EXTGRP:Новости
+http://2.56.164.181/channel/n8170126/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Новости" tvg-id="hlsproxy-155" tvg-logo="http://static.g-cdn.app/streams/russia-today-hd.png" tvg-rec="0",RT HD
+#EXTGRP:Новости
+http://2.56.164.181/channel/n6d0e23fe/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Новости" tvg-id="hlsproxy-59" tvg-logo="http://static.g-cdn.app/streams/deutsche-welle.png" tvg-rec="0",DW Russian
+#EXTGRP:Новости
+http://2.56.164.181/channel/n2acf5a82/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Новости" tvg-id="hlsproxy-1393" tvg-logo="http://static.g-cdn.app/streams/sky-news-uk.png" tvg-rec="0",Sky News
+#EXTGRP:Новости
+http://2.56.164.181/channel/n224c3ab6/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Новости" tvg-id="hlsproxy-1393" tvg-logo="http://static.g-cdn.app/streams/sky-news-uk-hd.png" tvg-rec="0",Sky News HD
+#EXTGRP:Новости
+http://2.56.164.181/channel/n44e3c06e/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Новости" tvg-id="hlsproxy-20356" tvg-logo="http://static.g-cdn.app/streams/fox-news-hd.png" tvg-rec="0",FOX News HD
+#EXTGRP:Новости
+http://2.56.164.181/channel/56a47d40/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Новости" tvg-id="hlsproxy-50592" tvg-logo="http://static.g-cdn.app/streams/cnn.png" tvg-rec="0",CNN
+#EXTGRP:Новости
+http://2.56.164.181/channel/536a3ab/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Новости" tvg-id="hlsproxy-50592" tvg-logo="http://static.g-cdn.app/streams/cnn-hd.png" tvg-rec="0",CNN HD
+#EXTGRP:Новости
+http://2.56.164.181/channel/n4e8f466f/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Новости" tvg-id="hlsproxy-51219" tvg-logo="http://static.g-cdn.app/streams/abc-us-hd.png" tvg-rec="0",ABC HD
+#EXTGRP:Новости
+http://2.56.164.181/channel/n52a711ce/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Новости" tvg-id="hlsproxy-55130" tvg-logo="http://static.g-cdn.app/streams/cbs-us-hd.png" tvg-rec="0",CBS HD
+#EXTGRP:Новости
+http://2.56.164.181/channel/n4f361aa0/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Новости" tvg-id="hlsproxy-20644" tvg-logo="http://static.g-cdn.app/streams/nbc-us-hd.png" tvg-rec="0",NBC HD
+#EXTGRP:Новости
+http://2.56.164.181/channel/n3c7811bb/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Новости" tvg-id="hlsproxy-20152" tvg-logo="http://static.g-cdn.app/streams/cnbc-us-hd.png" tvg-rec="0",CNBC HD
+#EXTGRP:Новости
+http://2.56.164.181/channel/7c0cb218/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Новости" tvg-id="hlsproxy-20574" tvg-logo="http://static.g-cdn.app/streams/msnbc-us-hd.png" tvg-rec="0",MSNBC HD
+#EXTGRP:Новости
+http://2.56.164.181/channel/314fdd6b/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Новости" tvg-id="hlsproxy-39" tvg-logo="http://static.g-cdn.app/streams/bbc-world-news.png" tvg-rec="0",BBC World
+#EXTGRP:Новости
+http://2.56.164.181/channel/351c217d/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Новости" tvg-id="hlsproxy-39" tvg-logo="http://static.g-cdn.app/streams/bbc-world-news-hd.png" tvg-rec="0",BBC World HD
+#EXTGRP:Новости
+http://2.56.164.181/channel/749d927f/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Новости" tvg-id="hlsproxy-41" tvg-logo="http://static.g-cdn.app/streams/bloomberg-hd.png" tvg-rec="0",Bloomberg TV HD
+#EXTGRP:Новости
+http://2.56.164.181/channel/4b3a77d/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Новости" tvg-id="hlsproxy-51631" tvg-logo="http://static.g-cdn.app/streams/al-jazeera-hd.png" tvg-rec="0",Al Jazeera HD
+#EXTGRP:Новости
+http://2.56.164.181/channel/n4ce87419/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-331" tvg-logo="http://static.g-cdn.app/streams/kinopremiera-hd-orig.png" tvg-rec="7",Кинопремьера HD
+#EXTGRP:Кино
+http://2.56.164.181/channel/5cf829a4/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-574" tvg-logo="http://static.g-cdn.app/streams/kino-premium-hd-orig.png" tvg-rec="7",Премиальное HD
+#EXTGRP:Кино
+http://2.56.164.181/channel/n1f08a16f/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-576" tvg-logo="http://static.g-cdn.app/streams/ostrosujetnoe-hd-orig.png" tvg-rec="7",Остросюжетное HD
+#EXTGRP:Кино
+http://2.56.164.181/channel/7e21e6f9/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-2506" tvg-logo="http://static.g-cdn.app/streams/hit-hd-orig.png" tvg-rec="7",Хит HD
+#EXTGRP:Кино
+http://2.56.164.181/channel/n756a269b/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-327" tvg-logo="http://static.g-cdn.app/streams/kinohit.png" tvg-rec="7",Кинохит
+#EXTGRP:Кино
+http://2.56.164.181/channel/n7c171768/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-327" tvg-logo="http://static.g-cdn.app/streams/kinohit-hd-orig.png" tvg-rec="7",Кинохит HD
+#EXTGRP:Кино
+http://2.56.164.181/channel/7cd3b184/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-323" tvg-logo="http://static.g-cdn.app/streams/kinomix.png" tvg-rec="7",Киномикс
+#EXTGRP:Кино
+http://2.56.164.181/channel/n6cfe9a6/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-323" tvg-logo="http://static.g-cdn.app/streams/kinomix-hd-orig.png" tvg-rec="7",Киномикс HD
+#EXTGRP:Кино
+http://2.56.164.181/channel/42f99482/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-92" tvg-logo="http://static.g-cdn.app/streams/kinosemja.png" tvg-rec="7",Киносемья
+#EXTGRP:Кино
+http://2.56.164.181/channel/2d17da74/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-92" tvg-logo="http://static.g-cdn.app/streams/kinosemja-hd-orig.png" tvg-rec="7",Киносемья HD
+#EXTGRP:Кино
+http://2.56.164.181/channel/n7528ddd8/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-324" tvg-logo="http://static.g-cdn.app/streams/kinosvidanije.png" tvg-rec="7",Киносвидание
+#EXTGRP:Кино
+http://2.56.164.181/channel/n1bff4ed2/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-324" tvg-logo="http://static.g-cdn.app/streams/kinosvidanije-hd-orig.png" tvg-rec="7",Киносвидание HD
+#EXTGRP:Кино
+http://2.56.164.181/channel/n1374e6d2/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-309" tvg-logo="http://static.g-cdn.app/streams/mnogo-tv.png" tvg-rec="7",Киносерия
+#EXTGRP:Кино
+http://2.56.164.181/channel/2d17e70c/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-309" tvg-logo="http://static.g-cdn.app/streams/mnogo-tv-hd-orig.png" tvg-rec="7",Киносерия HD
+#EXTGRP:Кино
+http://2.56.164.181/channel/n6f6f5170/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-281" tvg-logo="http://static.g-cdn.app/streams/kinopokaz.png" tvg-rec="7",Кинопоказ
+#EXTGRP:Кино
+http://2.56.164.181/channel/2cffb7cb/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-281" tvg-logo="http://static.g-cdn.app/streams/kinopokaz-hd-orig.png" tvg-rec="7",Кинопоказ HD
+#EXTGRP:Кино
+http://2.56.164.181/channel/n6dd24e8f/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-2505" tvg-logo="http://static.g-cdn.app/streams/blokbaster-hd-orig.png" tvg-rec="7",Блокбастер HD
+#EXTGRP:Кино
+http://2.56.164.181/channel/nb87484d/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="boeviki-hd" tvg-logo="http://static.g-cdn.app/streams/boeviki-hd.png" tvg-rec="7",Боевики HD
+#EXTGRP:Кино
+http://2.56.164.181/channel/n70123958/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-2503" tvg-logo="http://static.g-cdn.app/streams/nash-kinopokaz-hd-orig.png" tvg-rec="7",Наш Кинопоказ HD
+#EXTGRP:Кино
+http://2.56.164.181/channel/614334bc/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-575" tvg-logo="http://static.g-cdn.app/streams/nash-kinoroman-hd-orig.png" tvg-rec="7",Душевное HD
+#EXTGRP:Кино
+http://2.56.164.181/channel/nb77ba5a/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-577" tvg-logo="http://static.g-cdn.app/streams/nashe-krutoe-hd-orig.png" tvg-rec="7",Наше HD
+#EXTGRP:Кино
+http://2.56.164.181/channel/157bb3a4/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-6117" tvg-logo="http://static.g-cdn.app/streams/nashe-lubimoe-hd-orig.png" tvg-rec="7",Любимое HD
+#EXTGRP:Кино
+http://2.56.164.181/channel/3fe355b/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-175" tvg-logo="http://static.g-cdn.app/streams/vip-premiere-hd-orig.png" tvg-rec="7",Viju+ premiere HD
+#EXTGRP:Кино
+http://2.56.164.181/channel/505de658/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-174" tvg-logo="http://static.g-cdn.app/streams/vip-megahit-hd-orig.png" tvg-rec="7",Viju+ megahit HD
+#EXTGRP:Кино
+http://2.56.164.181/channel/n60d7ec5a/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-173" tvg-logo="http://static.g-cdn.app/streams/vip-comedy-hd-orig.png" tvg-rec="7",Viju+ comedy HD
+#EXTGRP:Кино
+http://2.56.164.181/channel/n20232588/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-55135" tvg-logo="http://static.g-cdn.app/streams/vip-serial-hd-orig.png" tvg-rec="7",Viju+ serial HD
+#EXTGRP:Кино
+http://2.56.164.181/channel/247a653d/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-171" tvg-logo="http://static.g-cdn.app/streams/tv1000.png" tvg-rec="7",Viju TV1000
+#EXTGRP:Кино
+http://2.56.164.181/channel/n4156fcb5/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-171" tvg-logo="http://static.g-cdn.app/streams/tv1000-hd-orig.png" tvg-rec="7",Viju TV1000 HD
+#EXTGRP:Кино
+http://2.56.164.181/channel/5636b5f1/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-172" tvg-logo="http://static.g-cdn.app/streams/tv1000-action.png" tvg-rec="7",Viju TV1000 action
+#EXTGRP:Кино
+http://2.56.164.181/channel/7baca8ab/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-172" tvg-logo="http://static.g-cdn.app/streams/tv1000-action-hd-orig.png" tvg-rec="7",Viju TV1000 action HD
+#EXTGRP:Кино
+http://2.56.164.181/channel/21809491/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-429" tvg-logo="http://static.g-cdn.app/streams/tv1000-ru-kino.png" tvg-rec="7",Viju TV1000 русское
+#EXTGRP:Кино
+http://2.56.164.181/channel/n6ab370a7/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-429" tvg-logo="http://static.g-cdn.app/streams/tv1000-russkoje-hd.png" tvg-rec="7",Viju TV1000 русское HD
+#EXTGRP:Кино
+http://2.56.164.181/channel/185e0723/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-171" tvg-logo="http://static.g-cdn.app/streams/viju-tv1000-nowella-hd.png" tvg-rec="7",Viju TV1000 новелла HD
+#EXTGRP:Кино
+http://2.56.164.181/channel/n3948931b/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-171" tvg-logo="http://static.g-cdn.app/streams/viju-tv1000-nowella-hd-orig.png" tvg-rec="7",Viju TV1000 новелла HD
+#EXTGRP:Кино
+http://2.56.164.181/channel/n3948931b/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-22" tvg-logo="http://static.g-cdn.app/streams/tv1000-world-kino.png" tvg-rec="7",Viasat Kino World
+#EXTGRP:Кино
+http://2.56.164.181/channel/n5ababdf/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-22" tvg-logo="http://static.g-cdn.app/streams/tv1000-world-kino-hd.png" tvg-rec="7",Viasat Kino World HD
+#EXTGRP:Кино
+http://2.56.164.181/channel/1b6aad5b/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-111" tvg-logo="http://static.g-cdn.app/streams/mgm-hd.png" tvg-rec="7",Hollywood HD
+#EXTGRP:Кино
+http://2.56.164.181/channel/61347d35/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-361" tvg-logo="http://static.g-cdn.app/streams/cinema.png" tvg-rec="7",Cinema
+#EXTGRP:Кино
+http://2.56.164.181/channel/n4d033857/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-361" tvg-logo="http://static.g-cdn.app/streams/cinema-hd-orig.png" tvg-rec="7",Cinema HD
+#EXTGRP:Кино
+http://2.56.164.181/channel/n9b8d32d/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-279" tvg-logo="http://static.g-cdn.app/streams/kino-tv.png" tvg-rec="7",Кино ТВ
+#EXTGRP:Кино
+http://2.56.164.181/channel/n7c26a927/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-279" tvg-logo="http://static.g-cdn.app/streams/kino-tv-hd-orig.png" tvg-rec="7",Кино ТВ HD
+#EXTGRP:Кино
+http://2.56.164.181/channel/69020fa3/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-100265" tvg-logo="http://static.g-cdn.app/streams/kinojam1-hd.png" tvg-rec="7",Kinojam 1 HD
+#EXTGRP:Кино
+http://2.56.164.181/channel/n9876d94/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-100266" tvg-logo="http://static.g-cdn.app/streams/kinojam2-hd.png" tvg-rec="7",Kinojam 2 HD
+#EXTGRP:Кино
+http://2.56.164.181/channel/n986f935/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="family-jam-hd" tvg-logo="http://static.g-cdn.app/streams/family-jam-hd.png" tvg-rec="7",Family Jam HD
+#EXTGRP:Кино
+http://2.56.164.181/channel/n15484c16/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="detective-jam-hd" tvg-logo="http://static.g-cdn.app/streams/detective-jam-hd.png" tvg-rec="7",Detective Jam HD
+#EXTGRP:Кино
+http://2.56.164.181/channel/65620549/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="kinoliving-hd" tvg-logo="http://static.g-cdn.app/streams/kinoliving-hd.png" tvg-rec="7",KinoLiving HD
+#EXTGRP:Кино
+http://2.56.164.181/channel/13c3453c/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="kion-hit-hd" tvg-logo="http://static.g-cdn.app/streams/kion-hit-hd.png" tvg-rec="7",KION Хит HD
+#EXTGRP:Кино
+http://2.56.164.181/channel/14e09cf8/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-100557" tvg-logo="http://static.g-cdn.app/streams/start-world.png" tvg-rec="7",Start World
+#EXTGRP:Кино
+http://2.56.164.181/channel/1412107c/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-100557" tvg-logo="http://static.g-cdn.app/streams/start-world-hd.png" tvg-rec="7",Start World HD
+#EXTGRP:Кино
+http://2.56.164.181/channel/n5dd330e0/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-100558" tvg-logo="http://static.g-cdn.app/streams/start-air.png" tvg-rec="7",Start Air
+#EXTGRP:Кино
+http://2.56.164.181/channel/17fea0b4/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-100558" tvg-logo="http://static.g-cdn.app/streams/start-air-hd.png" tvg-rec="7",Start Air HD
+#EXTGRP:Кино
+http://2.56.164.181/channel/484fb3e8/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-100559" tvg-logo="http://static.g-cdn.app/streams/plan-b.png" tvg-rec="7",Plan B
+#EXTGRP:Кино
+http://2.56.164.181/channel/n36afc23d/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-100559" tvg-logo="http://static.g-cdn.app/streams/plan-b-hd.png" tvg-rec="7",Plan B HD
+#EXTGRP:Кино
+http://2.56.164.181/channel/10c3c879/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-2583" tvg-logo="http://static.g-cdn.app/streams/4ever-cinema-ua-hd.png" tvg-rec="7",4ever Cinema HD
+#EXTGRP:Кино
+http://2.56.164.181/channel/n5ac1a47b/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="4ever-drama-hd" tvg-logo="http://static.g-cdn.app/streams/4ever-drama-hd.png" tvg-rec="7",4ever Drama HD
+#EXTGRP:Кино
+http://2.56.164.181/channel/440d531b/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="4ever-theater-hd" tvg-logo="http://static.g-cdn.app/streams/4ever-theater-hd.png" tvg-rec="7",4ever Theater HD
+#EXTGRP:Кино
+http://2.56.164.181/channel/38f4a3b1/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-1007012" tvg-logo="http://static.g-cdn.app/streams/kineko-hd.png" tvg-rec="7",Кинеко HD
+#EXTGRP:Кино
+http://2.56.164.181/channel/1d4dc20a/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-253" tvg-logo="http://static.g-cdn.app/streams/evrokino.png" tvg-rec="7",Еврокино
+#EXTGRP:Кино
+http://2.56.164.181/channel/n467d8c0e/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-253" tvg-logo="http://static.g-cdn.app/streams/evrokino-hd.png" tvg-rec="7",Еврокино HD
+#EXTGRP:Кино
+http://2.56.164.181/channel/nc0cd016/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="kino-bez-granic-hd" tvg-logo="http://static.g-cdn.app/streams/kino-bez-granic-hd.png" tvg-rec="7",Кино Без Границ HD
+#EXTGRP:Кино
+http://2.56.164.181/channel/n25de0582/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-55175" tvg-logo="http://static.g-cdn.app/streams/flix-snip.png" tvg-rec="7",Flix Snip
+#EXTGRP:Кино
+http://2.56.164.181/channel/n19d5a0b/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-55175" tvg-logo="http://static.g-cdn.app/streams/flix-snip-hd.png" tvg-rec="7",Flix Snip HD
+#EXTGRP:Кино
+http://2.56.164.181/channel/19cf1b07/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-472" tvg-logo="http://static.g-cdn.app/streams/egoist-tv.png" tvg-rec="7",SHOT TV
+#EXTGRP:Кино
+http://2.56.164.181/channel/n3f0dc030/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-472" tvg-logo="http://static.g-cdn.app/streams/egoist-tv-hd.png" tvg-rec="7",SHOT TV HD
+#EXTGRP:Кино
+http://2.56.164.181/channel/5ed06f4c/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="vhska-hd" tvg-logo="http://static.g-cdn.app/streams/vhska-hd.png" tvg-rec="7",VHS-ка HD
+#EXTGRP:Кино
+http://2.56.164.181/channel/n2938765e/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-268" tvg-logo="http://static.g-cdn.app/streams/muzhskoe-kino.png" tvg-rec="7",Мужское кино
+#EXTGRP:Кино
+http://2.56.164.181/channel/n32ec7e08/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-268" tvg-logo="http://static.g-cdn.app/streams/muzhskoe-kino-hd-orig.png" tvg-rec="7",Мужское кино HD
+#EXTGRP:Кино
+http://2.56.164.181/channel/nedde3dc/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-100096" tvg-logo="http://static.g-cdn.app/streams/nashe-muzshkoe-hd-orig.png" tvg-rec="7",Наше Мужское HD
+#EXTGRP:Кино
+http://2.56.164.181/channel/n2fd1341b/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-2494" tvg-logo="http://static.g-cdn.app/streams/trash-hd.png" tvg-rec="7",Trash HD
+#EXTGRP:Кино
+http://2.56.164.181/channel/n6c775664/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-624" tvg-logo="http://static.g-cdn.app/streams/strashnoe-hd.png" tvg-rec="7",Страшное HD
+#EXTGRP:Кино
+http://2.56.164.181/channel/721ba787/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-282" tvg-logo="http://static.g-cdn.app/streams/shokiruschee-hd-orig.png" tvg-rec="7",Шокирующее HD
+#EXTGRP:Кино
+http://2.56.164.181/channel/5e845452/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-1796" tvg-logo="http://static.g-cdn.app/streams/kinouzhas-hd-orig.png" tvg-rec="7",Киноужас HD
+#EXTGRP:Кино
+http://2.56.164.181/channel/n4eb168ff/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="scream" tvg-logo="http://static.g-cdn.app/streams/Scream.png" tvg-rec="7",Scream
+#EXTGRP:Кино
+http://2.56.164.181/channel/n32086b59/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="scream-hd" tvg-logo="http://static.g-cdn.app/streams/scream-hd.png" tvg-rec="7",Scream HD
+#EXTGRP:Кино
+http://2.56.164.181/channel/n61c3a8eb/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-344" tvg-logo="http://static.g-cdn.app/streams/hct.png" tvg-rec="7",НСТ
+#EXTGRP:Кино
+http://2.56.164.181/channel/5459366/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-604" tvg-logo="http://static.g-cdn.app/streams/russkaja-comedija.png" tvg-rec="7",Комедия
+#EXTGRP:Кино
+http://2.56.164.181/channel/n71ec724a/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-290" tvg-logo="http://static.g-cdn.app/streams/kinokomedia.png" tvg-rec="7",Кинокомедия
+#EXTGRP:Кино
+http://2.56.164.181/channel/n1c6f4689/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-290" tvg-logo="http://static.g-cdn.app/streams/kinokomedia-hd-orig.png" tvg-rec="7",Кинокомедия HD
+#EXTGRP:Кино
+http://2.56.164.181/channel/6bf4045/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-283" tvg-logo="http://static.g-cdn.app/streams/komedijnoe-hd-orig.png" tvg-rec="7",Комедийное HD
+#EXTGRP:Кино
+http://2.56.164.181/channel/n34794678/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-2507" tvg-logo="http://static.g-cdn.app/streams/comedy-hd-orig.png" tvg-rec="7",Камеди HD
+#EXTGRP:Кино
+http://2.56.164.181/channel/n56f9276f/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-31" tvg-logo="http://static.g-cdn.app/streams/amedia-premium.png" tvg-rec="7",Amedia Premium
+#EXTGRP:Кино
+http://2.56.164.181/channel/n5e22b00e/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-31" tvg-logo="http://static.g-cdn.app/streams/amedia-premium-hd-orig.png" tvg-rec="7",AMEDIA Premium HD
+#EXTGRP:Кино
+http://2.56.164.181/channel/n169cdff6/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-578" tvg-logo="http://static.g-cdn.app/streams/amedia-hit.png" tvg-rec="7",Amedia Hit
+#EXTGRP:Кино
+http://2.56.164.181/channel/58791aae/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-578" tvg-logo="http://static.g-cdn.app/streams/amedia-hit-hd-orig.png" tvg-rec="7",AMEDIA HIT HD
+#EXTGRP:Кино
+http://2.56.164.181/channel/128a1fce/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-25" tvg-logo="http://static.g-cdn.app/streams/amedia-1.png" tvg-rec="7",A1
+#EXTGRP:Кино
+http://2.56.164.181/channel/n8170358/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-25" tvg-logo="http://static.g-cdn.app/streams/amedia1-hd.png" tvg-rec="7",A1 HD
+#EXTGRP:Кино
+http://2.56.164.181/channel/n6e0d9c8c/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-26" tvg-logo="http://static.g-cdn.app/streams/amedia-2.png" tvg-rec="7",A2
+#EXTGRP:Кино
+http://2.56.164.181/channel/n8170357/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-26" tvg-logo="http://static.g-cdn.app/streams/amedia-2-hd.png" tvg-rec="7",A2 HD
+#EXTGRP:Кино
+http://2.56.164.181/channel/n6e0d282d/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-81" tvg-logo="http://static.g-cdn.app/streams/fox.png" tvg-rec="7",FX
+#EXTGRP:Кино
+http://2.56.164.181/channel/n8170296/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-81" tvg-logo="http://static.g-cdn.app/streams/fox-hd.png" tvg-rec="7",FX HD
+#EXTGRP:Кино
+http://2.56.164.181/channel/n6db56c8e/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-83" tvg-logo="http://static.g-cdn.app/streams/fox-life.png" tvg-rec="7",FX Life
+#EXTGRP:Кино
+http://2.56.164.181/channel/29f5e812/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-83" tvg-logo="http://static.g-cdn.app/streams/fox-life-hd.png" tvg-rec="7",FX Life HD
+#EXTGRP:Кино
+http://2.56.164.181/channel/n963836/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-159" tvg-logo="http://static.g-cdn.app/streams/set.png" tvg-rec="7",Red
+#EXTGRP:Кино
+http://2.56.164.181/channel/536ded9/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-159" tvg-logo="http://static.g-cdn.app/streams/set-hd.png" tvg-rec="7",Red HD
+#EXTGRP:Кино
+http://2.56.164.181/channel/n33a8785d/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-28" tvg-logo="http://static.g-cdn.app/streams/sony-sci-fi.png" tvg-rec="7",Sci-Fi
+#EXTGRP:Кино
+http://2.56.164.181/channel/n320d5831/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-28" tvg-logo="http://static.g-cdn.app/streams/sci-fi-hd.png" tvg-rec="7",Sci-Fi HD
+#EXTGRP:Кино
+http://2.56.164.181/channel/611692ed/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="suspense-hd" tvg-logo="http://static.g-cdn.app/streams/suspense-hd.png" tvg-rec="7",Suspense HD
+#EXTGRP:Кино
+http://2.56.164.181/channel/128a4baa/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-163" tvg-logo="http://static.g-cdn.app/streams/sony-turbo.png" tvg-rec="7",Black
+#EXTGRP:Кино
+http://2.56.164.181/channel/n6de3bbb9/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-163" tvg-logo="http://static.g-cdn.app/streams/black-hd.png" tvg-rec="7",Black HD
+#EXTGRP:Кино
+http://2.56.164.181/channel/76e0375/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-54755" tvg-logo="http://static.g-cdn.app/streams/tv-xxi.png" tvg-rec="7",ТВ21
+#EXTGRP:Кино
+http://2.56.164.181/channel/n5c9192f9/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-100262" tvg-logo="http://static.g-cdn.app/streams/mosfilm.png" tvg-rec="7",Мосфильм
+#EXTGRP:Кино
+http://2.56.164.181/channel/d7dff10/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-100262" tvg-logo="http://static.g-cdn.app/streams/mosfilm-hd-orig.png" tvg-rec="7",Мосфильм HD
+#EXTGRP:Кино
+http://2.56.164.181/channel/1955680c/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-385" tvg-logo="http://static.g-cdn.app/streams/lubimoe-kino.png" tvg-rec="7",Любимое Кино
+#EXTGRP:Кино
+http://2.56.164.181/channel/nedc3e2/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-385" tvg-logo="http://static.g-cdn.app/streams/lubimoe-kino-hd.png" tvg-rec="7",Любимое Кино HD
+#EXTGRP:Кино
+http://2.56.164.181/channel/n14fd97c2/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-54784" tvg-logo="http://static.g-cdn.app/streams/sovetskaya-kinoclassica-hd.png" tvg-rec="7",Советская Киноклассика HD
+#EXTGRP:Кино
+http://2.56.164.181/channel/n2428a580/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-330" tvg-logo="http://static.g-cdn.app/streams/rodnoje_kino.png" tvg-rec="7",Родное кино
+#EXTGRP:Кино
+http://2.56.164.181/channel/6b38b89/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-55224" tvg-logo="http://static.g-cdn.app/streams/pobeda.png" tvg-rec="7",Победа
+#EXTGRP:Кино
+http://2.56.164.181/channel/n7f4a9749/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-55224" tvg-logo="http://static.g-cdn.app/streams/pobeda-hd.png" tvg-rec="7",Победа HD
+#EXTGRP:Кино
+http://2.56.164.181/channel/n93ab6fb/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-55224" tvg-logo="http://static.g-cdn.app/streams/pobeda-hd-orig.png" tvg-rec="7",Победа HD
+#EXTGRP:Кино
+http://2.56.164.181/channel/n93ab6fb/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-100021" tvg-logo="http://static.g-cdn.app/streams/den-pobedy-hd.png" tvg-rec="7",День Победы HD
+#EXTGRP:Кино
+http://2.56.164.181/channel/28a5e52a/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-329" tvg-logo="http://static.g-cdn.app/streams/nashe-novoe-kino.png" tvg-rec="7",Наше новое кино
+#EXTGRP:Кино
+http://2.56.164.181/channel/n18620d01/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-329" tvg-logo="http://static.g-cdn.app/streams/nashe-novoe-kino-hd-orig.png" tvg-rec="7",Наше новое кино HD
+#EXTGRP:Кино
+http://2.56.164.181/channel/n7a46c643/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-399" tvg-logo="http://static.g-cdn.app/streams/russkij-bestseller.png" tvg-rec="7",Русский Бестселлер
+#EXTGRP:Кино
+http://2.56.164.181/channel/1718f124/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-452" tvg-logo="http://static.g-cdn.app/streams/telekafe.png" tvg-rec="7",Телекафе
+#EXTGRP:Кино
+http://2.56.164.181/channel/n6a62bed4/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-244" tvg-logo="http://static.g-cdn.app/streams/dom-kino.png" tvg-rec="7",Дом Кино
+#EXTGRP:Кино
+http://2.56.164.181/channel/n747aa55b/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-51107" tvg-logo="http://static.g-cdn.app/streams/dom-kino-premium-hd.png" tvg-rec="7",Дом Кино Премиум HD
+#EXTGRP:Кино
+http://2.56.164.181/channel/n26c8be52/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-401" tvg-logo="http://static.g-cdn.app/streams/russkij-roman.png" tvg-rec="7",Русский Роман
+#EXTGRP:Кино
+http://2.56.164.181/channel/5822bb0b/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-401" tvg-logo="http://static.g-cdn.app/streams/russkij-roman-hd-orig.png" tvg-rec="7",Русский Роман HD
+#EXTGRP:Кино
+http://2.56.164.181/channel/71a4e631/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-400" tvg-logo="http://static.g-cdn.app/streams/russkij-detektiv.png" tvg-rec="7",Русский Детектив
+#EXTGRP:Кино
+http://2.56.164.181/channel/n3e6f1bca/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-397" tvg-logo="http://static.g-cdn.app/streams/russkij-iluzion.png" tvg-rec="7",Русский Иллюзион
+#EXTGRP:Кино
+http://2.56.164.181/channel/n6c18276a/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-397" tvg-logo="http://static.g-cdn.app/streams/russkij-iluzion-hd.png" tvg-rec="7",Русский Иллюзион HD
+#EXTGRP:Кино
+http://2.56.164.181/channel/ned2273a/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-263" tvg-logo="http://static.g-cdn.app/streams/iluzion-plus.png" tvg-rec="7",Иллюзион +
+#EXTGRP:Кино
+http://2.56.164.181/channel/n4826c7a7/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-263" tvg-logo="http://static.g-cdn.app/streams/iluzion-plus-hd.png" tvg-rec="7",Иллюзион + HD
+#EXTGRP:Кино
+http://2.56.164.181/channel/n58db41dd/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-464" tvg-logo="http://static.g-cdn.app/streams/feniks-plus-kino.png" tvg-rec="7",Феникс+Кино
+#EXTGRP:Кино
+http://2.56.164.181/channel/3421143f/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-464" tvg-logo="http://static.g-cdn.app/streams/feniks-plus-kino-hd.png" tvg-rec="7",Феникс+Кино HD
+#EXTGRP:Кино
+http://2.56.164.181/channel/5573907d/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-308" tvg-logo="http://static.g-cdn.app/streams/mir-seriala.png" tvg-rec="7",Мир Сериала
+#EXTGRP:Кино
+http://2.56.164.181/channel/n208d0cbb/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-308" tvg-logo="http://static.g-cdn.app/streams/mir-seriala-hd.png" tvg-rec="7",Мир Сериала HD
+#EXTGRP:Кино
+http://2.56.164.181/channel/1e40bb7/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-100014" tvg-logo="http://static.g-cdn.app/streams/romantichnoe-hd.png" tvg-rec="7",Романтичное HD
+#EXTGRP:Кино
+http://2.56.164.181/channel/130e9486/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-2510" tvg-logo="http://static.g-cdn.app/streams/pro-lubov-hd-orig.png" tvg-rec="7",Про Любовь HD
+#EXTGRP:Кино
+http://2.56.164.181/channel/4a0723e7/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="love-story-hd" tvg-logo="http://static.g-cdn.app/streams/love-story-hd.png" tvg-rec="7",Лавстори HD
+#EXTGRP:Кино
+http://2.56.164.181/channel/56386ccc/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-2177" tvg-logo="http://static.g-cdn.app/streams/romance-hd.png" tvg-rec="7",Romance HD
+#EXTGRP:Кино
+http://2.56.164.181/channel/62fc5e55/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-212" tvg-logo="http://static.g-cdn.app/streams/ntv-hit.png" tvg-rec="7",НТВ Хит
+#EXTGRP:Кино
+http://2.56.164.181/channel/n72c8d3c/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-212" tvg-logo="http://static.g-cdn.app/streams/ntv-hit-hd.png" tvg-rec="7",НТВ Хит HD
+#EXTGRP:Кино
+http://2.56.164.181/channel/2678e7d8/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-8194" tvg-logo="http://static.g-cdn.app/streams/ntv-serial.png" tvg-rec="7",НТВ Сериал
+#EXTGRP:Кино
+http://2.56.164.181/channel/1f8a3142/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-8194" tvg-logo="http://static.g-cdn.app/streams/ntv-serial-hd.png" tvg-rec="7",НТВ Сериал HD
+#EXTGRP:Кино
+http://2.56.164.181/channel/529ab09a/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-349" tvg-logo="http://static.g-cdn.app/streams/nostalgia.png" tvg-rec="7",Ностальгия
+#EXTGRP:Кино
+http://2.56.164.181/channel/22d11603/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-390" tvg-logo="http://static.g-cdn.app/streams/retro.png" tvg-rec="7",Ретро ТВ
+#EXTGRP:Кино
+http://2.56.164.181/channel/n2da59c83/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-1007010" tvg-logo="http://static.g-cdn.app/streams/sapfir-hd.png" tvg-rec="7",Сапфир HD
+#EXTGRP:Кино
+http://2.56.164.181/channel/6f6d45a8/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-53747" tvg-logo="http://static.g-cdn.app/streams/dorama-hd.png" tvg-rec="7",Дорама HD
+#EXTGRP:Кино
+http://2.56.164.181/channel/n56c5824a/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-51106" tvg-logo="http://static.g-cdn.app/streams/bollywood.png" tvg-rec="7",Bollywood HD
+#EXTGRP:Кино
+http://2.56.164.181/channel/330a9cfb/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-204" tvg-logo="http://static.g-cdn.app/streams/indija-tv.png" tvg-rec="7",Индийское Кино
+#EXTGRP:Кино
+http://2.56.164.181/channel/n3a323649/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-204" tvg-logo="http://static.g-cdn.app/streams/zee-tv.png" tvg-rec="7",Индия ТВ
+#EXTGRP:Кино
+http://2.56.164.181/channel/2235fc22/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Кино" tvg-id="hlsproxy-204" tvg-logo="http://static.g-cdn.app/streams/zee-tv-hd.png" tvg-rec="7",Индия ТВ HD
+#EXTGRP:Кино
+http://2.56.164.181/channel/284879ba/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Спорт" tvg-id="hlsproxy-328" tvg-logo="http://static.g-cdn.app/streams/nash-futbol.png" tvg-rec="7",Матч Премьер
+#EXTGRP:Спорт
+http://2.56.164.181/channel/7fff60e0/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Спорт" tvg-id="hlsproxy-328" tvg-logo="http://static.g-cdn.app/streams/match-premier-hd-orig.png" tvg-rec="7",Матч Премьер HD
+#EXTGRP:Спорт
+http://2.56.164.181/channel/37aaf43c/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Спорт" tvg-id="hlsproxy-1333" tvg-logo="http://static.g-cdn.app/streams/futbol.png" tvg-rec="7",Футбол
+#EXTGRP:Спорт
+http://2.56.164.181/channel/n76743a1d/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Спорт" tvg-id="hlsproxy-1333" tvg-logo="http://static.g-cdn.app/streams/futbol-hd.png" tvg-rec="7",Футбол HD
+#EXTGRP:Спорт
+http://2.56.164.181/channel/6089cc59/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Спорт" tvg-id="hlsproxy-337" tvg-logo="http://static.g-cdn.app/streams/match-futbol-1.png" tvg-rec="7",МАТЧ! Футбол 1
+#EXTGRP:Спорт
+http://2.56.164.181/channel/220ba7cc/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Спорт" tvg-id="hlsproxy-337" tvg-logo="http://static.g-cdn.app/streams/match-futbol-1-hd-orig.png" tvg-rec="7",МАТЧ! Футбол 1 HD
+#EXTGRP:Спорт
+http://2.56.164.181/channel/n15a3ca30/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Спорт" tvg-id="hlsproxy-339" tvg-logo="http://static.g-cdn.app/streams/match-futbol-2.png" tvg-rec="7",МАТЧ! Футбол 2
+#EXTGRP:Спорт
+http://2.56.164.181/channel/220ba7cd/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Спорт" tvg-id="hlsproxy-339" tvg-logo="http://static.g-cdn.app/streams/match-futbol-2-hd-orig.png" tvg-rec="7",МАТЧ! Футбол 2 HD
+#EXTGRP:Спорт
+http://2.56.164.181/channel/n15a355d1/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Спорт" tvg-id="hlsproxy-512" tvg-logo="http://static.g-cdn.app/streams/match-futbol-3.png" tvg-rec="7",МАТЧ! Футбол 3
+#EXTGRP:Спорт
+http://2.56.164.181/channel/220ba7ce/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Спорт" tvg-id="hlsproxy-512" tvg-logo="http://static.g-cdn.app/streams/match-futbol-3-hd-orig.png" tvg-rec="7",МАТЧ! Футбол 3 HD
+#EXTGRP:Спорт
+http://2.56.164.181/channel/n15a2e172/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Спорт" tvg-id="hlsproxy-392" tvg-logo="http://static.g-cdn.app/streams/match.png" tvg-rec="7",Матч ТВ
+#EXTGRP:Спорт
+http://2.56.164.181/channel/n1fb66ac1/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Спорт" tvg-id="hlsproxy-392" tvg-logo="http://static.g-cdn.app/streams/match-tv-hd-orig.png" tvg-rec="7",Матч ТВ HD
+#EXTGRP:Спорт
+http://2.56.164.181/channel/n6d109083/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Спорт" tvg-id="hlsproxy-94" tvg-logo="http://static.g-cdn.app/streams/match-igra.png" tvg-rec="7",Матч! Игра
+#EXTGRP:Спорт
+http://2.56.164.181/channel/5c3c999b/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Спорт" tvg-id="hlsproxy-94" tvg-logo="http://static.g-cdn.app/streams/match-igra-hd-orig.png" tvg-rec="7",Матч! Игра HD
+#EXTGRP:Спорт
+http://2.56.164.181/channel/n4fe8425f/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Спорт" tvg-id="hlsproxy-420" tvg-logo="http://static.g-cdn.app/streams/match-arena.png" tvg-rec="7",Матч! Арена
+#EXTGRP:Спорт
+http://2.56.164.181/channel/2aeba308/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Спорт" tvg-id="hlsproxy-420" tvg-logo="http://static.g-cdn.app/streams/match-arena-hd-orig.png" tvg-rec="7",Матч! Арена HD
+#EXTGRP:Спорт
+http://2.56.164.181/channel/n4cae5eec/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Спорт" tvg-id="hlsproxy-335" tvg-logo="http://static.g-cdn.app/streams/match-nash-sport.png" tvg-rec="7",Матч! Страна
+#EXTGRP:Спорт
+http://2.56.164.181/channel/4fac2494/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Спорт" tvg-id="hlsproxy-335" tvg-logo="http://static.g-cdn.app/streams/match-strana-hd.png" tvg-rec="7",Матч! Страна HD
+#EXTGRP:Спорт
+http://2.56.164.181/channel/n6e8adbf8/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Спорт" tvg-id="hlsproxy-53906" tvg-logo="http://static.g-cdn.app/streams/start-hd.png" tvg-rec="7",Старт HD
+#EXTGRP:Спорт
+http://2.56.164.181/channel/n34c9523d/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Спорт" tvg-id="hlsproxy-274" tvg-logo="http://static.g-cdn.app/streams/khl-tv.png" tvg-rec="7",KHL
+#EXTGRP:Спорт
+http://2.56.164.181/channel/536c0f7/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Спорт" tvg-id="hlsproxy-275" tvg-logo="http://static.g-cdn.app/streams/khl-tv-hd-orig.png" tvg-rec="7",KHL HD
+#EXTGRP:Спорт
+http://2.56.164.181/channel/n413df73b/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Спорт" tvg-id="hlsproxy-275" tvg-logo="http://static.g-cdn.app/streams/khl-prime-hd-orig.png" tvg-rec="7",KHL Prime HD
+#EXTGRP:Спорт
+http://2.56.164.181/channel/n79f50c9a/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Спорт" tvg-id="hlsproxy-100271" tvg-logo="http://static.g-cdn.app/streams/hokkejnyj-hd.png" tvg-rec="7",Хоккейный HD
+#EXTGRP:Спорт
+http://2.56.164.181/channel/258ef1e6/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Спорт" tvg-id="hlsproxy-100272" tvg-logo="http://static.g-cdn.app/streams/futbolnyj-hd.png" tvg-rec="7",Футбольный HD
+#EXTGRP:Спорт
+http://2.56.164.181/channel/n208d1906/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Спорт" tvg-id="hlsproxy-676" tvg-logo="http://static.g-cdn.app/streams/sportivnyj-hd.png" tvg-rec="7",Спортивный HD
+#EXTGRP:Спорт
+http://2.56.164.181/channel/n5415bb6b/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Спорт" tvg-id="hlsproxy-20638" tvg-logo="http://static.g-cdn.app/streams/nba-tv-hd.png" tvg-rec="7",NBA HD
+#EXTGRP:Спорт
+http://2.56.164.181/channel/n3c78fa79/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Спорт" tvg-id="hlsproxy-20653" tvg-logo="http://static.g-cdn.app/streams/nhl-network-hd-us.png" tvg-rec="7",NHL Network HD
+#EXTGRP:Спорт
+http://2.56.164.181/channel/1f72ff4/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Спорт" tvg-id="hlsproxy-199" tvg-logo="http://static.g-cdn.app/streams/viasat-sport.png" tvg-rec="7",Viju+ sport
+#EXTGRP:Спорт
+http://2.56.164.181/channel/n52782f77/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Спорт" tvg-id="hlsproxy-199" tvg-logo="http://static.g-cdn.app/streams/viasat-sport-hd.png" tvg-rec="7",Viju+ sport HD
+#EXTGRP:Спорт
+http://2.56.164.181/channel/n101b080d/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Спорт" tvg-id="hlsproxy-72" tvg-logo="http://static.g-cdn.app/streams/evrosport.png" tvg-rec="7",Eurosport 1
+#EXTGRP:Спорт
+http://2.56.164.181/channel/n264d66c0/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Спорт" tvg-id="hlsproxy-72" tvg-logo="http://static.g-cdn.app/streams/eurosport-hd-orig.png" tvg-rec="7",Eurosport 1 HD
+#EXTGRP:Спорт
+http://2.56.164.181/channel/n4947a024/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Спорт" tvg-id="hlsproxy-73" tvg-logo="http://static.g-cdn.app/streams/evrosport-2.png" tvg-rec="7",Eurosport 2
+#EXTGRP:Спорт
+http://2.56.164.181/channel/n264d66bf/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Спорт" tvg-id="hlsproxy-73" tvg-logo="http://static.g-cdn.app/streams/eurosport2-hd-orig.png" tvg-rec="7",Eurosport 2 HD
+#EXTGRP:Спорт
+http://2.56.164.181/channel/n49472bc5/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Спорт" tvg-id="hlsproxy-413" tvg-logo="http://static.g-cdn.app/streams/setanta-sport-hd-orig.png" tvg-rec="7",Setanta Sports 1 HD
+#EXTGRP:Спорт
+http://2.56.164.181/channel/n6c7609f0/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Спорт" tvg-id="hlsproxy-8338" tvg-logo="http://static.g-cdn.app/streams/setanta-sport-plus-hd-orig.png" tvg-rec="7",Setanta Sports 2 HD
+#EXTGRP:Спорт
+http://2.56.164.181/channel/n6c759591/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Спорт" tvg-id="setanta-sports-baltic-hd" tvg-logo="http://static.g-cdn.app/streams/setanta-sports-baltic-hd.png" tvg-rec="7",Setanta Sports Baltic 1 HD
+#EXTGRP:Спорт
+http://2.56.164.181/channel/n75927fdb/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Спорт" tvg-id="setanta-sports2-baltic-hd" tvg-logo="http://static.g-cdn.app/streams/setanta-sports2-baltic-hd.png" tvg-rec="7",Setanta Sports Baltic 2 HD
+#EXTGRP:Спорт
+http://2.56.164.181/channel/n75920b7c/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Спорт" tvg-id="hlsproxy-55422" tvg-logo="http://static.g-cdn.app/streams/setanta-sport-ua-hd-orig.png" tvg-rec="7",Setanta Sports UA HD
+#EXTGRP:Спорт
+http://2.56.164.181/channel/n20417b15/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Спорт" tvg-id="hlsproxy-52600" tvg-logo="http://static.g-cdn.app/streams/setanta-sport-plus-ua-hd-orig.png" tvg-rec="7",Setanta Sports + UA HD
+#EXTGRP:Спорт
+http://2.56.164.181/channel/70281f6/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Спорт" tvg-id="megogo-sport-ua-hd-orig" tvg-logo="http://static.g-cdn.app/streams/megogo-sport-ua-hd-orig.png" tvg-rec="7",MEGOGO Спорт HD
+#EXTGRP:Спорт
+http://2.56.164.181/channel/46da743a/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Спорт" tvg-id="upl1-ua-hd" tvg-logo="http://static.g-cdn.app/streams/upl1-ua-hd.png" tvg-rec="7",UPL 1 HD
+#EXTGRP:Спорт
+http://2.56.164.181/channel/n33aa6c6e/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Спорт" tvg-id="hlsproxy-413" tvg-logo="http://static.g-cdn.app/streams/setanta-qazaqstan-hd.png" tvg-rec="7",Setanta Qazaqstan HD
+#EXTGRP:Спорт
+http://2.56.164.181/channel/16025a70/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Спорт" tvg-id="hlsproxy-100350" tvg-logo="http://static.g-cdn.app/streams/qsport-hd.png" tvg-rec="7",QSport HD
+#EXTGRP:Спорт
+http://2.56.164.181/channel/n602896ff/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Спорт" tvg-id="hlsproxy-632" tvg-logo="http://static.g-cdn.app/streams/sport1-ua.png" tvg-rec="7",Спорт 1
+#EXTGRP:Спорт
+http://2.56.164.181/channel/234e5bb/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Спорт" tvg-id="hlsproxy-634" tvg-logo="http://static.g-cdn.app/streams/sport2-ua.png" tvg-rec="7",Спорт 2
+#EXTGRP:Спорт
+http://2.56.164.181/channel/234e5bc/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Спорт" tvg-id="m1-global" tvg-logo="http://static.g-cdn.app/streams/m1-global-tv.png" tvg-rec="7",MMA-TV
+#EXTGRP:Спорт
+http://2.56.164.181/channel/n3d929e3a/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Спорт" tvg-id="m1-global-hd" tvg-logo="http://static.g-cdn.app/streams/m1-global-hd.png" tvg-rec="7",MMA-TV HD
+#EXTGRP:Спорт
+http://2.56.164.181/channel/n491a7e6a/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Спорт" tvg-id="hlsproxy-856" tvg-logo="http://static.g-cdn.app/streams/ufc-hd.png" tvg-rec="7",UDAR HD
+#EXTGRP:Спорт
+http://2.56.164.181/channel/23252084/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Спорт" tvg-id="hlsproxy-222" tvg-logo="http://static.g-cdn.app/streams/match-boec.png" tvg-rec="7",МАТЧ! Боец
+#EXTGRP:Спорт
+http://2.56.164.181/channel/3abeaeee/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Спорт" tvg-id="hlsproxy-222" tvg-logo="http://static.g-cdn.app/streams/match-boec-hd.png" tvg-rec="7",Матч! Боец HD
+#EXTGRP:Спорт
+http://2.56.164.181/channel/50006b4e/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Спорт" tvg-id="hlsproxy-53833" tvg-logo="http://static.g-cdn.app/streams/tochka-otryva.png" tvg-rec="7",Точка Отрыва
+#EXTGRP:Спорт
+http://2.56.164.181/channel/76145524/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Спорт" tvg-id="hlsproxy-398" tvg-logo="http://static.g-cdn.app/streams/russkij-extrim-hd.png" tvg-rec="7",Русский Экстрим HD
+#EXTGRP:Спорт
+http://2.56.164.181/channel/n4d22893a/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Спорт" tvg-id="hlsproxy-75" tvg-logo="http://static.g-cdn.app/streams/extreme-sports.png" tvg-rec="7",Extreme Sports
+#EXTGRP:Спорт
+http://2.56.164.181/channel/32b724b/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Спорт" tvg-id="hlsproxy-587" tvg-logo="http://static.g-cdn.app/streams/konnyj-mir-hd.png" tvg-rec="7",Конный Мир HD
+#EXTGRP:Спорт
+http://2.56.164.181/channel/n3f4a2b92/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Спорт" tvg-id="hlsproxy-209" tvg-logo="http://static.g-cdn.app/streams/auto-plus-hd.png" tvg-rec="7",Авто Плюс HD
+#EXTGRP:Спорт
+http://2.56.164.181/channel/fd74e63/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Спорт" tvg-id="hlsproxy-93" tvg-logo="http://static.g-cdn.app/streams/avto-24-hd.png" tvg-rec="7",Авто 24 HD
+#EXTGRP:Спорт
+http://2.56.164.181/channel/32b05770/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Спорт" tvg-id="hlsproxy-248" tvg-logo="http://static.g-cdn.app/streams/drive-hd.png" tvg-rec="7",Драйв HD
+#EXTGRP:Спорт
+http://2.56.164.181/channel/1a910577/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Спорт" tvg-id="hlsproxy-370" tvg-logo="http://static.g-cdn.app/streams/pervyj-avto-hd-ua.png" tvg-rec="7",Первый Автомобильный HD
+#EXTGRP:Спорт
+http://2.56.164.181/channel/n5af179c5/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Мультфильмы" tvg-id="hlsproxy-239" tvg-logo="http://static.g-cdn.app/streams/detskij-mir.png" tvg-rec="7",Детский мир
+#EXTGRP:Мультфильмы
+http://2.56.164.181/channel/n65f05cd9/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Мультфильмы" tvg-id="hlsproxy-239" tvg-logo="http://static.g-cdn.app/streams/detskij-mir-hd.png" tvg-rec="7",Детский Мир HD
+#EXTGRP:Мультфильмы
+http://2.56.164.181/channel/b20a4b5/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Мультфильмы" tvg-id="hlsproxy-277" tvg-logo="http://static.g-cdn.app/streams/karusel.png" tvg-rec="7",Карусель
+#EXTGRP:Мультфильмы
+http://2.56.164.181/channel/57657676/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Мультфильмы" tvg-id="hlsproxy-277" tvg-logo="http://static.g-cdn.app/streams/karusel-hd.png" tvg-rec="7",Карусель HD
+#EXTGRP:Мультфильмы
+http://2.56.164.181/channel/6854eee6/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Мультфильмы" tvg-id="hlsproxy-8521" tvg-logo="http://static.g-cdn.app/streams/gosti-skazka.png" tvg-rec="7",В гостях у сказки
+#EXTGRP:Мультфильмы
+http://2.56.164.181/channel/708911b3/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Мультфильмы" tvg-id="hlsproxy-8521" tvg-logo="http://static.g-cdn.app/streams/gosti-skazka-hd.webp" tvg-rec="7",В гостях у сказки HD
+#EXTGRP:Мультфильмы
+http://2.56.164.181/channel/n211cd177/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Мультфильмы" tvg-id="hlsproxy-1007011" tvg-logo="http://static.g-cdn.app/streams/chizik-hd.png" tvg-rec="7",Чижик HD
+#EXTGRP:Мультфильмы
+http://2.56.164.181/channel/33481f2d/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Мультфильмы" tvg-id="hlsproxy-314" tvg-logo="http://static.g-cdn.app/streams/mult.png" tvg-rec="7",Мульт
+#EXTGRP:Мультфильмы
+http://2.56.164.181/channel/n35cf69ae/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Мультфильмы" tvg-id="hlsproxy-314" tvg-logo="http://static.g-cdn.app/streams/tlum-hd.png" tvg-rec="7",Мульт HD
+#EXTGRP:Мультфильмы
+http://2.56.164.181/channel/c25718a/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Мультфильмы" tvg-id="kinomult" tvg-logo="http://static.g-cdn.app/streams/kinomult.png" tvg-rec="7",КиноМульт
+#EXTGRP:Мультфильмы
+http://2.56.164.181/channel/2b14ce33/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Мультфильмы" tvg-id="hlsproxy-315" tvg-logo="http://static.g-cdn.app/streams/multimania.png" tvg-rec="7",Мультиландия
+#EXTGRP:Мультфильмы
+http://2.56.164.181/channel/36955d69/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Мультфильмы" tvg-id="hlsproxy-315" tvg-logo="http://static.g-cdn.app/streams/multimania-hd.png" tvg-rec="7",Мультиландия HD
+#EXTGRP:Мультфильмы
+http://2.56.164.181/channel/n103e40ed/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Мультфильмы" tvg-id="hlsproxy-427" tvg-logo="http://static.g-cdn.app/streams/strana.png" tvg-rec="7",Мультимузыка
+#EXTGRP:Мультфильмы
+http://2.56.164.181/channel/395390d7/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Мультфильмы" tvg-id="hlsproxy-54501" tvg-logo="http://static.g-cdn.app/streams/ctc-kids.png" tvg-rec="7",СТС Kids
+#EXTGRP:Мультфильмы
+http://2.56.164.181/channel/n2716aedb/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Мультфильмы" tvg-id="hlsproxy-54501" tvg-logo="http://static.g-cdn.app/streams/ctc-kids-hd.png" tvg-rec="7",СТС Kids HD
+#EXTGRP:Мультфильмы
+http://2.56.164.181/channel/375a61d7/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Мультфильмы" tvg-id="hlsproxy-51109" tvg-logo="http://static.g-cdn.app/streams/ginger-hd.png" tvg-rec="7",Капитан Фантастика HD
+#EXTGRP:Мультфильмы
+http://2.56.164.181/channel/6bc30c76/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Мультфильмы" tvg-id="super-geroi-hd" tvg-logo="http://static.g-cdn.app/streams/super-geroi-hd.png" tvg-rec="7",СуперГерои HD
+#EXTGRP:Мультфильмы
+http://2.56.164.181/channel/5772ebf4/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Мультфильмы" tvg-id="hlsproxy-51108" tvg-logo="http://static.g-cdn.app/streams/ryzhij.png" tvg-rec="7",Рыжий
+#EXTGRP:Мультфильмы
+http://2.56.164.181/channel/n35937dec/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Мультфильмы" tvg-id="hlsproxy-238" tvg-logo="http://static.g-cdn.app/streams/detksij.png" tvg-rec="7",Уникум
+#EXTGRP:Мультфильмы
+http://2.56.164.181/channel/n78820913/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Мультфильмы" tvg-id="hlsproxy-238" tvg-logo="http://static.g-cdn.app/streams/detskij-hd.png" tvg-rec="7",Уникум HD
+#EXTGRP:Мультфильмы
+http://2.56.164.181/channel/5ba2870f/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Мультфильмы" tvg-id="hlsproxy-2333" tvg-logo="http://static.g-cdn.app/streams/ducktv-hd.png" tvg-rec="7",Ducktv HD
+#EXTGRP:Мультфильмы
+http://2.56.164.181/channel/2dde6e89/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Мультфильмы" tvg-id="hlsproxy-100674" tvg-logo="http://static.g-cdn.app/streams/ljova-hd.png" tvg-rec="7",Лёва HD
+#EXTGRP:Мультфильмы
+http://2.56.164.181/channel/n1d392150/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Мультфильмы" tvg-id="hlsproxy-66" tvg-logo="http://static.g-cdn.app/streams/solnce.png" tvg-rec="7",Солнце
+#EXTGRP:Мультфильмы
+http://2.56.164.181/channel/n7bdc3a1a/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Мультфильмы" tvg-id="hlsproxy-186" tvg-logo="http://static.g-cdn.app/streams/kanal-o.png" tvg-rec="7",О!
+#EXTGRP:Мультфильмы
+http://2.56.164.181/channel/n8168ba5/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Мультфильмы" tvg-id="hlsproxy-136" tvg-logo="http://static.g-cdn.app/streams/nickelodeon.png" tvg-rec="7",Nickelodeon
+#EXTGRP:Мультфильмы
+http://2.56.164.181/channel/6753344d/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Мультфильмы" tvg-id="hlsproxy-136" tvg-logo="http://static.g-cdn.app/streams/nickelodeon-hd.png" tvg-rec="7",Nickelodeon HD
+#EXTGRP:Мультфильмы
+http://2.56.164.181/channel/b93cdaf/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Мультфильмы" tvg-id="hlsproxy-52" tvg-logo="http://static.g-cdn.app/streams/cartoon-network.png" tvg-rec="7",Cartoon Network
+#EXTGRP:Мультфильмы
+http://2.56.164.181/channel/6aea19a4/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Мультфильмы" tvg-id="hlsproxy-52" tvg-logo="http://static.g-cdn.app/streams/cartoon-classics.png" tvg-rec="7",Cartoon Classics
+#EXTGRP:Мультфильмы
+http://2.56.164.181/channel/n32aaf695/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Мультфильмы" tvg-id="hlsproxy-100672" tvg-logo="http://static.g-cdn.app/streams/tip-top-hd.png" tvg-rec="7",ТипТоп HD
+#EXTGRP:Мультфильмы
+http://2.56.164.181/channel/90a6f2a/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Мультфильмы" tvg-id="hlsproxy-42" tvg-logo="http://static.g-cdn.app/streams/cartoonito-hd.png" tvg-rec="7",Cartoonito HD
+#EXTGRP:Мультфильмы
+http://2.56.164.181/channel/n771788d2/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Мультфильмы" tvg-id="hlsproxy-135" tvg-logo="http://static.g-cdn.app/streams/nickjr.png" tvg-rec="7",Nick Jr
+#EXTGRP:Мультфильмы
+http://2.56.164.181/channel/ne18b273/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Мультфильмы" tvg-id="hlsproxy-178" tvg-logo="http://static.g-cdn.app/streams/tiji.png" tvg-rec="7",TiJi
+#EXTGRP:Мультфильмы
+http://2.56.164.181/channel/n5e5a0eb4/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Мультфильмы" tvg-id="hlsproxy-89" tvg-logo="http://static.g-cdn.app/streams/gulli.png" tvg-rec="7",Gulli Girl
+#EXTGRP:Мультфильмы
+http://2.56.164.181/channel/2f2d8d39/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Мультфильмы" tvg-id="hlsproxy-1006" tvg-logo="http://static.g-cdn.app/streams/ani.png" tvg-rec="7",Ani
+#EXTGRP:Мультфильмы
+http://2.56.164.181/channel/536a024/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Мультфильмы" tvg-id="hlsproxy-276" tvg-logo="http://static.g-cdn.app/streams/2x2.png" tvg-rec="7",2x2
+#EXTGRP:Мультфильмы
+http://2.56.164.181/channel/53668d4/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Мультфильмы" tvg-id="hlsproxy-55103" tvg-logo="http://static.g-cdn.app/streams/fan-hd.png" tvg-rec="7",FAN HD
+#EXTGRP:Мультфильмы
+http://2.56.164.181/channel/n4a27ee1f/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Мультфильмы" tvg-id="hlsproxy-360" tvg-logo="http://static.g-cdn.app/streams/plus-plus-ua-hd.png" tvg-rec="7",ПлюсПлюс HD
+#EXTGRP:Мультфильмы
+http://2.56.164.181/channel/209ff4e6/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Познавательные" tvg-id="hlsproxy-130" tvg-logo="http://static.g-cdn.app/streams/national-geographic.png" tvg-rec="7",National Geographic
+#EXTGRP:Познавательные
+http://2.56.164.181/channel/678c780d/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Познавательные" tvg-id="hlsproxy-131" tvg-logo="http://static.g-cdn.app/streams/nat-geo-hd-orig.png" tvg-rec="7",National Geographic HD
+#EXTGRP:Познавательные
+http://2.56.164.181/channel/1386f1ef/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Познавательные" tvg-id="hlsproxy-100022" tvg-logo="http://static.g-cdn.app/streams/discovery.png" tvg-rec="7",Discovery Channel
+#EXTGRP:Познавательные
+http://2.56.164.181/channel/n927f145/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Познавательные" tvg-id="hlsproxy-100022" tvg-logo="http://static.g-cdn.app/streams/discovery-hd-orig.png" tvg-rec="7",Discovery Channel HD
+#EXTGRP:Познавательные
+http://2.56.164.181/channel/n7f254b7f/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Познавательные" tvg-id="hlsproxy-99" tvg-logo="http://static.g-cdn.app/streams/id-xtra.png" tvg-rec="7",Investigation Discovery
+#EXTGRP:Познавательные
+http://2.56.164.181/channel/n2b98bbc6/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Познавательные" tvg-id="hlsproxy-99" tvg-logo="http://static.g-cdn.app/streams/id-xtra-hd.png" tvg-rec="7",Investigation Discovery HD
+#EXTGRP:Познавательные
+http://2.56.164.181/channel/n62c2e55e/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Познавательные" tvg-id="hlsproxy-166" tvg-logo="http://static.g-cdn.app/streams/tlc.png" tvg-rec="7",TLC
+#EXTGRP:Познавательные
+http://2.56.164.181/channel/536e333/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Познавательные" tvg-id="hlsproxy-166" tvg-logo="http://static.g-cdn.app/streams/tlc-hd-orig.png" tvg-rec="7",TLC HD
+#EXTGRP:Познавательные
+http://2.56.164.181/channel/n31ae12f7/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Познавательные" tvg-id="womens-magazine-hd" tvg-logo="http://static.g-cdn.app/streams/womens-magazine-hd.png" tvg-rec="7",Womens Magazine HD
+#EXTGRP:Познавательные
+http://2.56.164.181/channel/n51c49dcb/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Познавательные" tvg-id="hlsproxy-34" tvg-logo="http://static.g-cdn.app/streams/animal-planet.png" tvg-rec="7",Animal planet
+#EXTGRP:Познавательные
+http://2.56.164.181/channel/n40303b7c/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Познавательные" tvg-id="hlsproxy-34" tvg-logo="http://static.g-cdn.app/streams/animal-planet-hd-orig.png" tvg-rec="7",Animal Planet HD
+#EXTGRP:Познавательные
+http://2.56.164.181/channel/n3567a208/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Познавательные" tvg-id="hlsproxy-128" tvg-logo="http://static.g-cdn.app/streams/nat-geo-wild.png" tvg-rec="7",Nat Geo Wild
+#EXTGRP:Познавательные
+http://2.56.164.181/channel/24e2a50/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Познавательные" tvg-id="hlsproxy-128" tvg-logo="http://static.g-cdn.app/streams/nat-geo-wild-hd-orig.png" tvg-rec="7",Nat Geo Wild HD
+#EXTGRP:Познавательные
+http://2.56.164.181/channel/462e74cc/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Познавательные" tvg-id="hlsproxy-51830" tvg-logo="http://static.g-cdn.app/streams/love-nature-hd.png" tvg-rec="7",Love Nature HD
+#EXTGRP:Познавательные
+http://2.56.164.181/channel/7773f07f/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Познавательные" tvg-id="hlsproxy-100025" tvg-logo="http://static.g-cdn.app/streams/animal-family-hd.png" tvg-rec="7",В мире животных HD
+#EXTGRP:Познавательные
+http://2.56.164.181/channel/n53dec870/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Познавательные" tvg-id="hlsproxy-197" tvg-logo="http://static.g-cdn.app/streams/viasat-nature.png" tvg-rec="7",Viju nature
+#EXTGRP:Познавательные
+http://2.56.164.181/channel/n143e79ef/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Познавательные" tvg-id="hlsproxy-197" tvg-logo="http://static.g-cdn.app/streams/viasat-nature-hd.png" tvg-rec="7",Viju nature HD
+#EXTGRP:Познавательные
+http://2.56.164.181/channel/2d90f56b/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Познавательные" tvg-id="hlsproxy-198" tvg-logo="http://static.g-cdn.app/streams/viasat-history-hd-test.png" tvg-rec="7",Viju+ planet HD
+#EXTGRP:Познавательные
+http://2.56.164.181/channel/n3bb060e7/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Познавательные" tvg-id="hlsproxy-194" tvg-logo="http://static.g-cdn.app/streams/viasat-explorer.png" tvg-rec="7",Viju explore
+#EXTGRP:Познавательные
+http://2.56.164.181/channel/n28a5e197/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Познавательные" tvg-id="hlsproxy-194" tvg-logo="http://static.g-cdn.app/streams/viasat-explore-hd.png" tvg-rec="7",Viju explore HD
+#EXTGRP:Познавательные
+http://2.56.164.181/channel/n3fc6a1ed/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Познавательные" tvg-id="hlsproxy-311" tvg-logo="http://static.g-cdn.app/streams/moya-planeta.png" tvg-rec="7",Моя планета
+#EXTGRP:Познавательные
+http://2.56.164.181/channel/n7a78fe31/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Познавательные" tvg-id="hlsproxy-311" tvg-logo="http://static.g-cdn.app/streams/planeta-hd.png" tvg-rec="7",Моя планета HD
+#EXTGRP:Познавательные
+http://2.56.164.181/channel/n46140713/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Познавательные" tvg-id="hlsproxy-421" tvg-logo="http://static.g-cdn.app/streams/zhivaya-planeta.png" tvg-rec="7",Живая Планета
+#EXTGRP:Познавательные
+http://2.56.164.181/channel/4add0871/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Познавательные" tvg-id="hlsproxy-423" tvg-logo="http://static.g-cdn.app/streams/zhivaja-priroda-hd.png" tvg-rec="7",Живая природа HD
+#EXTGRP:Познавательные
+http://2.56.164.181/channel/4ab09334/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Познавательные" tvg-id="hlsproxy-100684" tvg-logo="http://static.g-cdn.app/streams/big-planet-hd.png" tvg-rec="7",Big Planet HD
+#EXTGRP:Познавательные
+http://2.56.164.181/channel/761ef58c/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Познавательные" tvg-id="hlsproxy-1007013" tvg-logo="http://static.g-cdn.app/streams/terra-hd.png" tvg-rec="7",Terra HD
+#EXTGRP:Познавательные
+http://2.56.164.181/channel/c8c3c4/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Познавательные" tvg-id="hlsproxy-182" tvg-logo="http://static.g-cdn.app/streams/travel-channel.png" tvg-rec="7",Travel Channel
+#EXTGRP:Познавательные
+http://2.56.164.181/channel/34021295/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Познавательные" tvg-id="hlsproxy-182" tvg-logo="http://static.g-cdn.app/streams/travel-channel-hd.png" tvg-rec="7",Travel Channel HD
+#EXTGRP:Познавательные
+http://2.56.164.181/channel/3d30ea67/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Познавательные" tvg-id="hlsproxy-184" tvg-logo="http://static.g-cdn.app/streams/travel-adventure.png" tvg-rec="7",Travel+Adventure
+#EXTGRP:Познавательные
+http://2.56.164.181/channel/3a704c77/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Познавательные" tvg-id="hlsproxy-184" tvg-logo="http://static.g-cdn.app/streams/travel-adventure-hd-orig.png" tvg-rec="7",Travel+Adventure HD
+#EXTGRP:Познавательные
+http://2.56.164.181/channel/n6dad32bb/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Познавательные" tvg-id="hlsproxy-455" tvg-logo="http://static.g-cdn.app/streams/teletravel-hd.png" tvg-rec="7",Приключения HD
+#EXTGRP:Познавательные
+http://2.56.164.181/channel/28ba4ae4/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Познавательные" tvg-id="hlsproxy-454" tvg-logo="http://static.g-cdn.app/streams/teleputeshestvija.png" tvg-rec="7",Телепутешествия
+#EXTGRP:Познавательные
+http://2.56.164.181/channel/1db01c9f/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Познавательные" tvg-id="the-explorers-hd" tvg-logo="http://static.g-cdn.app/streams/the-explorers-hd.png" tvg-rec="7",The Explorers HD
+#EXTGRP:Познавательные
+http://2.56.164.181/channel/n79966551/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Познавательные" tvg-id="hlsproxy-1131" tvg-logo="http://static.g-cdn.app/streams/glazami-turista-hd.png" tvg-rec="7",Глазами Туриста HD
+#EXTGRP:Познавательные
+http://2.56.164.181/channel/n2ace663f/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Познавательные" tvg-id="hlsproxy-54166" tvg-logo="http://static.g-cdn.app/streams/nasha-tema.png" tvg-rec="7",Наша Тема
+#EXTGRP:Познавательные
+http://2.56.164.181/channel/n615b576c/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Познавательные" tvg-id="hlsproxy-54166" tvg-logo="http://static.g-cdn.app/streams/nasha-tema-ua-hd.png" tvg-rec="7",Наша Тема HD
+#EXTGRP:Познавательные
+http://2.56.164.181/channel/7b7e2008/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Познавательные" tvg-id="hlsproxy-867" tvg-logo="http://static.g-cdn.app/streams/poehali-hd.png" tvg-rec="7",Поехали HD
+#EXTGRP:Познавательные
+http://2.56.164.181/channel/n3490514a/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Познавательные" tvg-id="neizvestnaya-rossia-hd" tvg-logo="http://static.g-cdn.app/streams/neizvestnaya-rossia-hd.png" tvg-rec="7",Неизвестная Россия HD
+#EXTGRP:Познавательные
+http://2.56.164.181/channel/78987610/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Познавательные" tvg-id="hlsproxy-53514" tvg-logo="http://static.g-cdn.app/streams/big-asia-hd.png" tvg-rec="7",Большая Азия HD
+#EXTGRP:Познавательные
+http://2.56.164.181/channel/n2fb798b1/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Познавательные" tvg-id="hlsproxy-157" tvg-logo="http://static.g-cdn.app/streams/rtg-tv.png" tvg-rec="7",RTG
+#EXTGRP:Познавательные
+http://2.56.164.181/channel/536dcad/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Познавательные" tvg-id="hlsproxy-150" tvg-logo="http://static.g-cdn.app/streams/rtg-hd.png" tvg-rec="7",RTG HD
+#EXTGRP:Познавательные
+http://2.56.164.181/channel/n34a536b1/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Познавательные" tvg-id="hlsproxy-90" tvg-logo="http://static.g-cdn.app/streams/hd-life.png" tvg-rec="7",HDL
+#EXTGRP:Познавательные
+http://2.56.164.181/channel/536b538/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Познавательные" tvg-id="hlsproxy-138" tvg-logo="http://static.g-cdn.app/streams/ocean-tv.png" tvg-rec="7",Ocean-TV
+#EXTGRP:Познавательные
+http://2.56.164.181/channel/787df869/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Познавательные" tvg-id="hlsproxy-4125" tvg-logo="http://static.g-cdn.app/streams/morskoj-hd.png" tvg-rec="7",Моя Стихия HD
+#EXTGRP:Познавательные
+http://2.56.164.181/channel/6bea994c/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Познавательные" tvg-id="hlsproxy-262" tvg-logo="http://static.g-cdn.app/streams/zoopark.png" tvg-rec="7",Zooпарк
+#EXTGRP:Познавательные
+http://2.56.164.181/channel/79657cad/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Познавательные" tvg-id="hlsproxy-359" tvg-logo="http://static.g-cdn.app/streams/ohotnik-rybolov.png" tvg-rec="7",Рыболов
+#EXTGRP:Познавательные
+http://2.56.164.181/channel/n1eeedf01/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Познавательные" tvg-id="hlsproxy-511" tvg-logo="http://static.g-cdn.app/streams/ohotnik-rybolov-hd.png" tvg-rec="7",Охотник и рыболов HD
+#EXTGRP:Познавательные
+http://2.56.164.181/channel/cf9a0f1/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Познавательные" tvg-id="hlsproxy-53817" tvg-logo="http://static.g-cdn.app/streams/dikaya-ohota-hd.png" tvg-rec="7",Дикая Охота HD
+#EXTGRP:Познавательные
+http://2.56.164.181/channel/4bcaccfa/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Познавательные" tvg-id="hlsproxy-53818" tvg-logo="http://static.g-cdn.app/streams/dikaya-rybalka-hd.png" tvg-rec="7",Дикая Рыбалка HD
+#EXTGRP:Познавательные
+http://2.56.164.181/channel/36314bb8/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Познавательные" tvg-id="hlsproxy-358" tvg-logo="http://static.g-cdn.app/streams/oxota-rybalka.png" tvg-rec="7",Охота и рыбалка
+#EXTGRP:Познавательные
+http://2.56.164.181/channel/670ed8cc/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Познавательные" tvg-id="hlsproxy-52975" tvg-logo="http://static.g-cdn.app/streams/dialogi-rybalka.png" tvg-rec="7",Диалоги о Рыбалке
+#EXTGRP:Познавательные
+http://2.56.164.181/channel/1ab8ef66/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Познавательные" tvg-id="hlsproxy-52975" tvg-logo="http://static.g-cdn.app/streams/dialogi-rybalka-hd.png" tvg-rec="7",Диалоги о Рыбалке HD
+#EXTGRP:Познавательные
+http://2.56.164.181/channel/n48e4700a/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Познавательные" tvg-id="hlsproxy-357" tvg-logo="http://static.g-cdn.app/streams/oruzhie.png" tvg-rec="7",Оружие
+#EXTGRP:Познавательные
+http://2.56.164.181/channel/7f24f20a/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Познавательные" tvg-id="hlsproxy-1993" tvg-logo="http://static.g-cdn.app/streams/arsenal-hd.png" tvg-rec="7",Арсенал HD
+#EXTGRP:Познавательные
+http://2.56.164.181/channel/496aacf0/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Познавательные" tvg-id="hlsproxy-312" tvg-logo="http://static.g-cdn.app/streams/muzhskoj.png" tvg-rec="7",Мужской
+#EXTGRP:Познавательные
+http://2.56.164.181/channel/193deb/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Познавательные" tvg-id="hlsproxy-10" tvg-logo="http://static.g-cdn.app/streams/t24.png" tvg-rec="7",Техно 24
+#EXTGRP:Познавательные
+http://2.56.164.181/channel/n58ef7d59/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Познавательные" tvg-id="hlsproxy-8215" tvg-logo="http://static.g-cdn.app/streams/nauka-20.png" tvg-rec="7",Наука
+#EXTGRP:Познавательные
+http://2.56.164.181/channel/n35c9d972/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Познавательные" tvg-id="hlsproxy-8215" tvg-logo="http://static.g-cdn.app/streams/nauka-hd-orig.png" tvg-rec="7",Наука HD
+#EXTGRP:Познавательные
+http://2.56.164.181/channel/n6c6ed832/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Познавательные" tvg-id="hlsproxy-87" tvg-logo="http://static.g-cdn.app/streams/galaxy-hd-orig.png" tvg-rec="7",Galaxy HD
+#EXTGRP:Познавательные
+http://2.56.164.181/channel/n67aa6bac/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Познавательные" tvg-id="hlsproxy-69" tvg-logo="http://static.g-cdn.app/streams/eureka-hd.png" tvg-rec="7",Первый космический HD
+#EXTGRP:Познавательные
+http://2.56.164.181/channel/n2e3a9c13/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Познавательные" tvg-id="hlsproxy-56" tvg-logo="http://static.g-cdn.app/streams/da-vinci-learning.png" tvg-rec="7",Da Vinci
+#EXTGRP:Познавательные
+http://2.56.164.181/channel/21a9def6/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Познавательные" tvg-id="curiosity-stream-hd" tvg-logo="http://static.g-cdn.app/streams/curiosity-stream-hd.png" tvg-rec="7",Curiosity Stream HD
+#EXTGRP:Познавательные
+http://2.56.164.181/channel/n431e65db/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Познавательные" tvg-id="hlsproxy-95" tvg-logo="http://static.g-cdn.app/streams/history-hd.png" tvg-rec="7",History HD
+#EXTGRP:Познавательные
+http://2.56.164.181/channel/n428de340/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Познавательные" tvg-id="hlsproxy-10257" tvg-logo="http://static.g-cdn.app/streams/h2-hd.png" tvg-rec="7",History 2 HD
+#EXTGRP:Познавательные
+http://2.56.164.181/channel/29536e6e/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Познавательные" tvg-id="hlsproxy-196" tvg-logo="http://static.g-cdn.app/streams/viasat-history.png" tvg-rec="7",Viju history
+#EXTGRP:Познавательные
+http://2.56.164.181/channel/5ca2086a/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Познавательные" tvg-id="hlsproxy-196" tvg-logo="http://static.g-cdn.app/streams/viasat-history-hd.png" tvg-rec="7",Viju history HD
+#EXTGRP:Познавательные
+http://2.56.164.181/channel/n340e578e/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Познавательные" tvg-id="hlsproxy-326" tvg-logo="http://static.g-cdn.app/streams/istorija.png" tvg-rec="7",История
+#EXTGRP:Познавательные
+http://2.56.164.181/channel/29be727a/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Познавательные" tvg-id="hlsproxy-13" tvg-logo="http://static.g-cdn.app/streams/365-dnej.png" tvg-rec="7",365 Дней
+#EXTGRP:Познавательные
+http://2.56.164.181/channel/7ba05ed3/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Познавательные" tvg-id="hlsproxy-417" tvg-logo="http://static.g-cdn.app/streams/sovershenno-sekretno.png" tvg-rec="7",Top Secret
+#EXTGRP:Познавательные
+http://2.56.164.181/channel/n19389f4d/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Познавательные" tvg-id="hlsproxy-292" tvg-logo="http://static.g-cdn.app/streams/kto-est-kto.png" tvg-rec="7",Кто есть кто
+#EXTGRP:Познавательные
+http://2.56.164.181/channel/n7d0eab92/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Познавательные" tvg-id="hlsproxy-100667" tvg-logo="http://static.g-cdn.app/streams/kriminalnoe-hd.png" tvg-rec="7",Криминальное HD
+#EXTGRP:Познавательные
+http://2.56.164.181/channel/n7ad3a75e/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Познавательные" tvg-id="hlsproxy-8349" tvg-logo="http://static.g-cdn.app/streams/ntv-pravo.png" tvg-rec="7",НТВ Право
+#EXTGRP:Познавательные
+http://2.56.164.181/channel/11712a70/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Познавательные" tvg-id="hlsproxy-100325" tvg-logo="http://static.g-cdn.app/streams/zal-suda-hd.png" tvg-rec="7",Зал Суда HD
+#EXTGRP:Познавательные
+http://2.56.164.181/channel/n797ee138/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Познавательные" tvg-id="hlsproxy-9" tvg-logo="http://static.g-cdn.app/streams/zdorovoe-tv.png" tvg-rec="7",Доктор
+#EXTGRP:Познавательные
+http://2.56.164.181/channel/6df4634c/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Познавательные" tvg-id="hlsproxy-9" tvg-logo="http://static.g-cdn.app/streams/zdorovoe-tv-hd.png" tvg-rec="7",Доктор HD
+#EXTGRP:Познавательные
+http://2.56.164.181/channel/n755035b0/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Познавательные" tvg-id="hlsproxy-230" tvg-logo="http://static.g-cdn.app/streams/voprosy-otvety.png" tvg-rec="7",Вопросы и ответы
+#EXTGRP:Познавательные
+http://2.56.164.181/channel/25c45315/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Познавательные" tvg-id="hlsproxy-256" tvg-logo="http://static.g-cdn.app/streams/zhivi.png" tvg-rec="7",Живи
+#EXTGRP:Познавательные
+http://2.56.164.181/channel/n5c95f8c0/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Познавательные" tvg-id="hlsproxy-256" tvg-logo="http://static.g-cdn.app/streams/zhivi-hd.png" tvg-rec="7",Живи HD
+#EXTGRP:Познавательные
+http://2.56.164.181/channel/n505dce24/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Познавательные" tvg-id="hlsproxy-462" tvg-logo="http://static.g-cdn.app/streams/usadba.png" tvg-rec="7",Усадьба
+#EXTGRP:Познавательные
+http://2.56.164.181/channel/6ea0f791/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Познавательные" tvg-id="hlsproxy-462" tvg-logo="http://static.g-cdn.app/streams/usadba-hd.png" tvg-rec="7",Усадьба HD
+#EXTGRP:Познавательные
+http://2.56.164.181/channel/n215ec15/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Познавательные" tvg-id="hlsproxy-245" tvg-logo="http://static.g-cdn.app/streams/domashnije-zhivotnye.png" tvg-rec="7",Домашние животные
+#EXTGRP:Познавательные
+http://2.56.164.181/channel/7fb70f8b/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Познавательные" tvg-id="hlsproxy-54555" tvg-logo="http://static.g-cdn.app/streams/zagorodnyy-int-hd.png" tvg-rec="7",Загородный int HD
+#EXTGRP:Познавательные
+http://2.56.164.181/channel/24c65e7c/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Познавательные" tvg-id="hlsproxy-257" tvg-logo="http://static.g-cdn.app/streams/zagorodnaya-zhizn.png" tvg-rec="7",Загородная Жизнь HD
+#EXTGRP:Познавательные
+http://2.56.164.181/channel/44fc5cd6/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Познавательные" tvg-id="hlsproxy-8191" tvg-logo="http://static.g-cdn.app/streams/ntv-style.png" tvg-rec="7",НТВ Стиль
+#EXTGRP:Познавательные
+http://2.56.164.181/channel/118e615d/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Познавательные" tvg-id="hlsproxy-8191" tvg-logo="http://static.g-cdn.app/streams/ntv-style-hd.png" tvg-rec="7",НТВ Стиль HD
+#EXTGRP:Познавательные
+http://2.56.164.181/channel/7f4c69f/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Познавательные" tvg-id="hlsproxy-286" tvg-logo="http://static.g-cdn.app/streams/bober.png" tvg-rec="7",Бобер
+#EXTGRP:Познавательные
+http://2.56.164.181/channel/n366cda69/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Познавательные" tvg-id="hlsproxy-2603" tvg-logo="http://static.g-cdn.app/streams/hgtv-hd.png" tvg-rec="7",HGTV HD
+#EXTGRP:Познавательные
+http://2.56.164.181/channel/79a03823/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Познавательные" tvg-id="hlsproxy-340" tvg-logo="http://static.g-cdn.app/streams/kanal-e-hd.png" tvg-rec="7",E HD
+#EXTGRP:Познавательные
+http://2.56.164.181/channel/n5e61f2b1/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Познавательные" tvg-id="hlsproxy-76" tvg-logo="http://static.g-cdn.app/streams/fashion-tv.png" tvg-rec="0",Fashion and LifeStyle HD
+#EXTGRP:Познавательные
+http://2.56.164.181/channel/25490d0/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Познавательные" tvg-id="hlsproxy-249" tvg-logo="http://static.g-cdn.app/streams/eda.png" tvg-rec="7",Еда
+#EXTGRP:Познавательные
+http://2.56.164.181/channel/54577b9/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Познавательные" tvg-id="hlsproxy-250" tvg-logo="http://static.g-cdn.app/streams/eda-hd.png" tvg-rec="7",Food Time HD
+#EXTGRP:Познавательные
+http://2.56.164.181/channel/296e8c05/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Познавательные" tvg-id="hlsproxy-20340" tvg-logo="http://static.g-cdn.app/streams/food-network-hd.png" tvg-rec="7",Food Network HD
+#EXTGRP:Познавательные
+http://2.56.164.181/channel/n7ac8d468/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Познавательные" tvg-id="hlsproxy-294" tvg-logo="http://static.g-cdn.app/streams/kuxnya-tv.png" tvg-rec="7",Кухня ТВ
+#EXTGRP:Познавательные
+http://2.56.164.181/channel/4ca6917a/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Музыкальные" tvg-id="hlsproxy-7" tvg-logo="http://static.g-cdn.app/streams/1hd.png" tvg-rec="0",1HD
+#EXTGRP:Музыкальные
+http://2.56.164.181/channel/5365f55/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Музыкальные" tvg-id="hlsproxy-301" tvg-logo="http://static.g-cdn.app/streams/muz-tv.png" tvg-rec="0",Муз-ТВ
+#EXTGRP:Музыкальные
+http://2.56.164.181/channel/7bd0ea45/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Музыкальные" tvg-id="hlsproxy-313" tvg-logo="http://static.g-cdn.app/streams/muzyka-pervogo.png" tvg-rec="0",Музыка Первого
+#EXTGRP:Музыкальные
+http://2.56.164.181/channel/n1b23e776/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Музыкальные" tvg-id="hlsproxy-71" tvg-logo="http://static.g-cdn.app/streams/evropa-plus-tv.png" tvg-rec="0",Europa Plus TV
+#EXTGRP:Музыкальные
+http://2.56.164.181/channel/beddede/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Музыкальные" tvg-id="hlsproxy-71" tvg-logo="http://static.g-cdn.app/streams/evropa-plus-tv-hd.png" tvg-rec="0",Europa Plus TV HD
+#EXTGRP:Музыкальные
+http://2.56.164.181/channel/3642cd7e/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Музыкальные" tvg-id="hlsproxy-119" tvg-logo="http://static.g-cdn.app/streams/music-box-gold.png" tvg-rec="0",Music Box Gold
+#EXTGRP:Музыкальные
+http://2.56.164.181/channel/n2466a5d8/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Музыкальные" tvg-id="hlsproxy-119" tvg-logo="http://static.g-cdn.app/streams/music-box-russian.png" tvg-rec="0",Russian MusicBox
+#EXTGRP:Музыкальные
+http://2.56.164.181/channel/n4c453dd5/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Музыкальные" tvg-id="hlsproxy-119" tvg-logo="http://static.g-cdn.app/streams/russian-musicbox-hd.png" tvg-rec="0",Russian MusicBox HD
+#EXTGRP:Музыкальные
+http://2.56.164.181/channel/524a0b11/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Музыкальные" tvg-id="hlsproxy-30002" tvg-logo="http://static.g-cdn.app/streams/tnt-music.png" tvg-rec="0",ТНТ Music
+#EXTGRP:Музыкальные
+http://2.56.164.181/channel/6277854/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Музыкальные" tvg-id="hlsproxy-351" tvg-logo="http://static.g-cdn.app/streams/o2tv-hd.png" tvg-rec="0",O!2 HD
+#EXTGRP:Музыкальные
+http://2.56.164.181/channel/n3c9bfb0c/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Музыкальные" tvg-id="hlsproxy-1500" tvg-logo="http://static.g-cdn.app/streams/zhara.png" tvg-rec="0",Жара
+#EXTGRP:Музыкальные
+http://2.56.164.181/channel/n5c96151e/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Музыкальные" tvg-id="hlsproxy-1500" tvg-logo="http://static.g-cdn.app/streams/zhara.png" tvg-rec="0",Жара HD
+#EXTGRP:Музыкальные
+http://2.56.164.181/channel/n5d42ed06/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Музыкальные" tvg-id="hlsproxy-153" tvg-logo="http://static.g-cdn.app/streams/ru-tv.png" tvg-rec="0",RU TV
+#EXTGRP:Музыкальные
+http://2.56.164.181/channel/n6d0dae19/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Музыкальные" tvg-id="hlsproxy-153" tvg-logo="http://static.g-cdn.app/streams/ru-tv-hd.png" tvg-rec="0",RU TV HD
+#EXTGRP:Музыкальные
+http://2.56.164.181/channel/550991d5/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Музыкальные" tvg-id="hlsproxy-55164" tvg-logo="http://static.g-cdn.app/streams/aiva-hd.png" tvg-rec="0",AIVA HD
+#EXTGRP:Музыкальные
+http://2.56.164.181/channel/ad0edd1/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Музыкальные" tvg-id="hlsproxy-10239" tvg-logo="http://static.g-cdn.app/streams/kronehit-hd.png" tvg-rec="0",Kronehit HD
+#EXTGRP:Музыкальные
+http://2.56.164.181/channel/62f11f50/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Музыкальные" tvg-id="hlsproxy-11016" tvg-logo="http://static.g-cdn.app/streams/one-by-hd.png" tvg-rec="0",One BY HD
+#EXTGRP:Музыкальные
+http://2.56.164.181/channel/n6355cc8d/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Музыкальные" tvg-id="hlsproxy-50486" tvg-logo="http://static.g-cdn.app/streams/one-by-russia-hd.png" tvg-rec="0",One by Russia HD
+#EXTGRP:Музыкальные
+http://2.56.164.181/channel/35cb08a/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Музыкальные" tvg-id="hlsproxy-3073" tvg-logo="http://static.g-cdn.app/streams/clubbing-hd.png" tvg-rec="0",Clubbing HD
+#EXTGRP:Музыкальные
+http://2.56.164.181/channel/6215ae/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Музыкальные" tvg-id="hlsproxy-50324" tvg-logo="http://static.g-cdn.app/streams/mooz-dance-hd.png" tvg-rec="0",Mooz Dance HD
+#EXTGRP:Музыкальные
+http://2.56.164.181/channel/64baa4a4/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Музыкальные" tvg-id="hlsproxy-306" tvg-logo="http://static.g-cdn.app/streams/bridge-tv-hd.png" tvg-rec="0",Bridge TV Deluxe HD
+#EXTGRP:Музыкальные
+http://2.56.164.181/channel/n12e633a/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Музыкальные" tvg-id="hlsproxy-58" tvg-logo="http://static.g-cdn.app/streams/bridge-tv-fresh.png" tvg-rec="0",Bridge TV Fresh HD
+#EXTGRP:Музыкальные
+http://2.56.164.181/channel/3984c7cd/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Музыкальные" tvg-id="hlsproxy-44" tvg-logo="http://static.g-cdn.app/streams/bridge-tv.png" tvg-rec="0",Bridge TV
+#EXTGRP:Музыкальные
+http://2.56.164.181/channel/n199693f/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Музыкальные" tvg-id="hlsproxy-57" tvg-logo="http://static.g-cdn.app/streams/bridge-tv-hits.png" tvg-rec="0",Bridge TV Hits
+#EXTGRP:Музыкальные
+http://2.56.164.181/channel/5383bd5f/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Музыкальные" tvg-id="hlsproxy-57" tvg-logo="http://static.g-cdn.app/streams/bridge-tv-hits-hd.png" tvg-rec="0",Bridge TV Hits HD
+#EXTGRP:Музыкальные
+http://2.56.164.181/channel/n504d2ca3/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Музыкальные" tvg-id="hlsproxy-154" tvg-logo="http://static.g-cdn.app/streams/rusong-tv.png" tvg-rec="0",Bridge TV Русский Хит
+#EXTGRP:Музыкальные
+http://2.56.164.181/channel/634e148/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Музыкальные" tvg-id="hlsproxy-180" tvg-logo="http://static.g-cdn.app/streams/bridge-classic.png" tvg-rec="0",Bridge TV Classic
+#EXTGRP:Музыкальные
+http://2.56.164.181/channel/n54b84ded/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Музыкальные" tvg-id="hlsproxy-104" tvg-logo="http://static.g-cdn.app/streams/bridge-tv-shlager.png" tvg-rec="0",Bridge TV Шлягер
+#EXTGRP:Музыкальные
+http://2.56.164.181/channel/55f65941/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Музыкальные" tvg-id="hlsproxy-44" tvg-logo="http://static.g-cdn.app/streams/bridge-tv-rock.png" tvg-rec="0",Bridge TV Rock
+#EXTGRP:Музыкальные
+http://2.56.164.181/channel/53885d84/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Музыкальные" tvg-id="hlsproxy-44" tvg-logo="http://static.g-cdn.app/streams/bridge-tv-rock-hd.png" tvg-rec="0",Bridge TV Rock HD
+#EXTGRP:Музыкальные
+http://2.56.164.181/channel/n3604fae8/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Музыкальные" tvg-id="hlsproxy-296" tvg-logo="http://static.g-cdn.app/streams/m1-ua-hd.png" tvg-rec="0",M1 HD
+#EXTGRP:Музыкальные
+http://2.56.164.181/channel/n6d648280/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Музыкальные" tvg-id="hlsproxy-297" tvg-logo="http://static.g-cdn.app/streams/m2-ua-hd.png" tvg-rec="0",M2 HD
+#EXTGRP:Музыкальные
+http://2.56.164.181/channel/n6d640e21/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Музыкальные" tvg-id="hlsproxy-295" tvg-logo="http://static.g-cdn.app/streams/la-minor.png" tvg-rec="0",Ля-минор
+#EXTGRP:Музыкальные
+http://2.56.164.181/channel/32f2a2e2/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Музыкальные" tvg-id="hlsproxy-471" tvg-logo="http://static.g-cdn.app/streams/shanson-tv.png" tvg-rec="0",Шансон ТВ
+#EXTGRP:Музыкальные
+http://2.56.164.181/channel/eb4f96d/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Музыкальные" tvg-id="hlsproxy-46" tvg-logo="http://static.g-cdn.app/streams/stingray-cmusic.png" tvg-rec="0",Stingray Cmusic
+#EXTGRP:Музыкальные
+http://2.56.164.181/channel/4b106361/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Музыкальные" tvg-id="hlsproxy-206" tvg-logo="http://static.g-cdn.app/streams/iconcerts-hd.png" tvg-rec="7",iConcerts
+#EXTGRP:Музыкальные
+http://2.56.164.181/channel/n2f450982/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Музыкальные" tvg-id="hlsproxy-100561" tvg-logo="http://static.g-cdn.app/streams/classic-music.png" tvg-rec="0",Classic Music HD
+#EXTGRP:Музыкальные
+http://2.56.164.181/channel/n19327c83/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Музыкальные" tvg-id="hlsproxy-122" tvg-logo="http://static.g-cdn.app/streams/mezzo-hd.png" tvg-rec="0",Mezzo Live HD
+#EXTGRP:Музыкальные
+http://2.56.164.181/channel/44b2764f/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Музыкальные" tvg-id="hlsproxy-116" tvg-logo="http://static.g-cdn.app/streams/mtv-live-hd.png" tvg-rec="0",MTV Live HD
+#EXTGRP:Музыкальные
+http://2.56.164.181/channel/n5d41d099/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Музыкальные" tvg-id="hlsproxy-114" tvg-logo="http://static.g-cdn.app/streams/mtv-europe.png" tvg-rec="0",MTV Europe
+#EXTGRP:Музыкальные
+http://2.56.164.181/channel/ne4c93f5/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Музыкальные" tvg-id="hlsproxy-115" tvg-logo="http://static.g-cdn.app/streams/mtv-hits.png" tvg-rec="0",MTV Hits
+#EXTGRP:Музыкальные
+http://2.56.164.181/channel/72011be9/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Музыкальные" tvg-id="hlsproxy-7094" tvg-logo="http://static.g-cdn.app/streams/club-mtv.png" tvg-rec="0",Club MTV
+#EXTGRP:Музыкальные
+http://2.56.164.181/channel/n6ebf6823/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Музыкальные" tvg-id="hlsproxy-54325" tvg-logo="http://static.g-cdn.app/streams/vh1-europe.png" tvg-rec="0",MTV 00s
+#EXTGRP:Музыкальные
+http://2.56.164.181/channel/n67adc336/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Музыкальные" tvg-id="hlsproxy-1271" tvg-logo="http://static.g-cdn.app/streams/mtv-rocks.png" tvg-rec="0",MTV 90s
+#EXTGRP:Музыкальные
+http://2.56.164.181/channel/n67ada16d/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Музыкальные" tvg-id="hlsproxy-190" tvg-logo="http://static.g-cdn.app/streams/mtv-80s.png" tvg-rec="0",MTV 80s
+#EXTGRP:Музыкальные
+http://2.56.164.181/channel/n67ada52e/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Музыкальные" tvg-id="hlsproxy-109" tvg-logo="http://static.g-cdn.app/streams/mcm.png" tvg-rec="0",MCM TOP
+#EXTGRP:Музыкальные
+http://2.56.164.181/channel/7ad19174/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Музыкальные" tvg-id="hlsproxy-109" tvg-logo="http://static.g-cdn.app/streams/mcm-top-hd.png" tvg-rec="0",MCM TOP HD
+#EXTGRP:Музыкальные
+http://2.56.164.181/channel/n7651f4d8/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Музыкальные" tvg-id="hlsproxy-55104" tvg-logo="http://static.g-cdn.app/streams/4ever-music-hd.png" tvg-rec="0",4ever Music HD
+#EXTGRP:Музыкальные
+http://2.56.164.181/channel/n57d5a163/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Музыкальные" tvg-id="hlsproxy-152" tvg-logo="http://static.g-cdn.app/streams/eu-music-hd.png" tvg-rec="0",EU Music HD
+#EXTGRP:Музыкальные
+http://2.56.164.181/channel/753f5ccf/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="XXX (18+)" parent-code="0000" tvg-id="hlsproxy-100268" tvg-logo="http://static.g-cdn.app/streams/eromania-4k-orig.png" tvg-rec="0",Eromania 4k
+#EXTGRP:XXX (18+)
+http://2.56.164.181/channel/n4bb0bcb1/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="XXX (18+)" parent-code="0000" tvg-id="hlsproxy-55227" tvg-logo="http://static.g-cdn.app/streams/extasy-4k.png" tvg-rec="0",Extasy 4k
+#EXTGRP:XXX (18+)
+http://2.56.164.181/channel/6bf32099/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="XXX (18+)" parent-code="0000" tvg-id="hlsproxy-55227" tvg-logo="http://static.g-cdn.app/streams/extasy-tv-hd.png" tvg-rec="0",Extasy TV HD
+#EXTGRP:XXX (18+)
+http://2.56.164.181/channel/3bb85238/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="XXX (18+)" parent-code="0000" tvg-id="hlsproxy-1298" tvg-logo="http://static.g-cdn.app/streams/penthouse1-hd.png" tvg-rec="0",Penthouse Gold
+#EXTGRP:XXX (18+)
+http://2.56.164.181/channel/n3c0bfd0d/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="XXX (18+)" parent-code="0000" tvg-id="hlsproxy-1299" tvg-logo="http://static.g-cdn.app/streams/penthouse2-hd.png" tvg-rec="0",Penthouse Quickies
+#EXTGRP:XXX (18+)
+http://2.56.164.181/channel/1aba0edd/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="XXX (18+)" parent-code="0000" tvg-id="hlsproxy-1330" tvg-logo="http://static.g-cdn.app/streams/redlight-hd.png" tvg-rec="0",Redlight HD
+#EXTGRP:XXX (18+)
+http://2.56.164.181/channel/n4f65dde1/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="XXX (18+)" parent-code="0000" tvg-id="hlsproxy-21036" tvg-logo="http://static.g-cdn.app/streams/vivid-red-hd.png" tvg-rec="0",Vivid Red HD
+#EXTGRP:XXX (18+)
+http://2.56.164.181/channel/6be02fa5/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="XXX (18+)" parent-code="0000" tvg-id="hlsproxy-2154" tvg-logo="http://static.g-cdn.app/streams/private-tv.png" tvg-rec="0",Private HD
+#EXTGRP:XXX (18+)
+http://2.56.164.181/channel/n26aa7e8f/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="XXX (18+)" parent-code="0000" tvg-id="hlsproxy-1212" tvg-logo="http://static.g-cdn.app/streams/hustler-hd.png" tvg-rec="0",Hustler HD
+#EXTGRP:XXX (18+)
+http://2.56.164.181/channel/n55319937/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="XXX (18+)" parent-code="0000" tvg-id="hlsproxy-6011" tvg-logo="http://static.g-cdn.app/streams/brazzers-tv.png" tvg-rec="0",Brazzers TV HD
+#EXTGRP:XXX (18+)
+http://2.56.164.181/channel/57cf3ae7/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="XXX (18+)" parent-code="0000" tvg-id="hlsproxy-54315" tvg-logo="http://static.g-cdn.app/streams/babes-hd.png" tvg-rec="0",Babes HD
+#EXTGRP:XXX (18+)
+http://2.56.164.181/channel/n3ca1ddbd/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="XXX (18+)" parent-code="0000" tvg-id="hlsproxy-100466" tvg-logo="http://static.g-cdn.app/streams/vixen-tv-hd.png" tvg-rec="0",Vixen TV HD
+#EXTGRP:XXX (18+)
+http://2.56.164.181/channel/21b2be90/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="XXX (18+)" parent-code="0000" tvg-id="hlsproxy-53212" tvg-logo="http://static.g-cdn.app/streams/evil-angel-hd.png" tvg-rec="0",Evil Angel HD
+#EXTGRP:XXX (18+)
+http://2.56.164.181/channel/n46a77d11/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="XXX (18+)" parent-code="0000" tvg-id="hlsproxy-50053" tvg-logo="http://static.g-cdn.app/streams/erox.png" tvg-rec="0",Erox
+#EXTGRP:XXX (18+)
+http://2.56.164.181/channel/n5e60b9f2/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="XXX (18+)" parent-code="0000" tvg-id="hlsproxy-50053" tvg-logo="http://static.g-cdn.app/streams/erox-hd.png" tvg-rec="0",Erox HD
+#EXTGRP:XXX (18+)
+http://2.56.164.181/channel/25d9d84e/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="XXX (18+)" parent-code="0000" tvg-id="hlsproxy-50246" tvg-logo="http://static.g-cdn.app/streams/eroxxx-hd.png" tvg-rec="0",Eroxxx HD
+#EXTGRP:XXX (18+)
+http://2.56.164.181/channel/1bb264ce/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="XXX (18+)" parent-code="0000" tvg-id="hlsproxy-3090" tvg-logo="http://static.g-cdn.app/streams/dorcel-tv.png" tvg-rec="0",Dorcel TV
+#EXTGRP:XXX (18+)
+http://2.56.164.181/channel/n3669d599/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="XXX (18+)" parent-code="0000" tvg-id="hlsproxy-3090" tvg-logo="http://static.g-cdn.app/streams/dorcel-hd.png" tvg-rec="0",Dorcel TV HD
+#EXTGRP:XXX (18+)
+http://2.56.164.181/channel/n260f16ab/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="XXX (18+)" parent-code="0000" tvg-id="hlsproxy-50102" tvg-logo="http://static.g-cdn.app/streams/super-one.png" tvg-rec="0",SuperOne
+#EXTGRP:XXX (18+)
+http://2.56.164.181/channel/n1ccd285d/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="XXX (18+)" parent-code="0000" tvg-id="hlsproxy-201" tvg-logo="http://static.g-cdn.app/streams/xxl-tv.png" tvg-rec="0",XXL
+#EXTGRP:XXX (18+)
+http://2.56.164.181/channel/536f3b4/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="XXX (18+)" parent-code="0000" tvg-id="hlsproxy-8451" tvg-logo="http://static.g-cdn.app/streams/shalun-hd.png" tvg-rec="0",Шалун HD
+#EXTGRP:XXX (18+)
+http://2.56.164.181/channel/n2e3f339/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="XXX (18+)" parent-code="0000" tvg-id="sholk" tvg-logo="http://static.g-cdn.app/streams/shyolk-hd.png" tvg-rec="0",Шёлк HD
+#EXTGRP:XXX (18+)
+http://2.56.164.181/channel/n6d04bfc4/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="XXX (18+)" parent-code="0000" tvg-id="hlsproxy-50000" tvg-logo="http://static.g-cdn.app/streams/exxxotica-hd.png" tvg-rec="0",Exxxotica HD
+#EXTGRP:XXX (18+)
+http://2.56.164.181/channel/346a5a05/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="XXX (18+)" parent-code="0000" tvg-id="hlsproxy-100353" tvg-logo="http://static.g-cdn.app/streams/red-lips.png" tvg-rec="0",Red Lips HD
+#EXTGRP:XXX (18+)
+http://2.56.164.181/channel/n2079ed8b/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="XXX (18+)" parent-code="0000" tvg-id="hlsproxy-1068" tvg-logo="http://static.g-cdn.app/streams/blue-hustler.png" tvg-rec="0",Blue Hustler
+#EXTGRP:XXX (18+)
+http://2.56.164.181/channel/3402d3fd/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="XXX (18+)" parent-code="0000" tvg-id="hlsproxy-1068" tvg-logo="http://static.g-cdn.app/streams/blue-hustler-hd.png" tvg-rec="0",Blue Hustler HD
+#EXTGRP:XXX (18+)
+http://2.56.164.181/channel/n6ae43001/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="XXX (18+)" parent-code="0000" tvg-id="hlsproxy-396" tvg-logo="http://static.g-cdn.app/streams/ruskaja-noch.png" tvg-rec="0",Русская Ночь
+#EXTGRP:XXX (18+)
+http://2.56.164.181/channel/n4d446098/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="XXX (18+)" parent-code="0000" tvg-id="hlsproxy-396" tvg-logo="http://static.g-cdn.app/streams/ruskaja-noch-hd.png" tvg-rec="0",Русская Ночь HD
+#EXTGRP:XXX (18+)
+http://2.56.164.181/channel/57dbc8b4/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="XXX (18+)" parent-code="0000" tvg-id="hlsproxy-145" tvg-logo="http://static.g-cdn.app/streams/playboy-tv.png" tvg-rec="0",Playboy TV
+#EXTGRP:XXX (18+)
+http://2.56.164.181/channel/n3f2451be/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="XXX (18+)" parent-code="0000" tvg-id="hlsproxy-145" tvg-logo="http://static.g-cdn.app/streams/playboy-tv-hd.png" tvg-rec="0",Playboy TV HD
+#EXTGRP:XXX (18+)
+http://2.56.164.181/channel/1c7c139a/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Ultra HD" tvg-id="hlsproxy-53143" tvg-logo="http://static.g-cdn.app/streams/kino-uhd-4k.png" tvg-rec="7",Кино UHD
+#EXTGRP:Ultra HD
+http://2.56.164.181/channel/n8bd3578/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Ultra HD" tvg-id="hlsproxy-54661" tvg-logo="http://static.g-cdn.app/streams/ultra-hd-cinema-4k.png" tvg-rec="7",Ultra HD Cinema
+#EXTGRP:Ultra HD
+http://2.56.164.181/channel/n6b2a8677/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Ultra HD" tvg-id="hlsproxy-52604" tvg-logo="http://static.g-cdn.app/streams/serial-uhd-4k.png" tvg-rec="7",Сериал UHD
+#EXTGRP:Ultra HD
+http://2.56.164.181/channel/42baf740/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Ultra HD" tvg-id="hlsproxy-53972" tvg-logo="http://static.g-cdn.app/streams/eleven-sports-1-4k.png" tvg-rec="7",Eleven Sports 1 4K
+#EXTGRP:Ultra HD
+http://2.56.164.181/channel/60ad5220/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Ultra HD" tvg-id="hlsproxy-50504" tvg-logo="http://static.g-cdn.app/streams/sport5-il-4k.png" tvg-rec="7",Sport 5 4K
+#EXTGRP:Ultra HD
+http://2.56.164.181/channel/450da046/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Ultra HD" tvg-id="hlsproxy-52651" tvg-logo="http://static.g-cdn.app/streams/russkij-extrim-4k.png" tvg-rec="7",Русский Экстрим UHD
+#EXTGRP:Ultra HD
+http://2.56.164.181/channel/n572e6c79/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Ultra HD" tvg-id="hlsproxy-9147" tvg-logo="http://static.g-cdn.app/streams/insight-uhd-4k.png" tvg-rec="7",Insight UHD
+#EXTGRP:Ultra HD
+http://2.56.164.181/channel/1befe1d1/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Ultra HD" tvg-id="hlsproxy-53142" tvg-logo="http://static.g-cdn.app/streams/home-4k.png" tvg-rec="7",Home 4k
+#EXTGRP:Ultra HD
+http://2.56.164.181/channel/n40b6d420/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Ultra HD" tvg-id="hlsproxy-55105" tvg-logo="http://static.g-cdn.app/streams/love-nature-4k.png" tvg-rec="7",Love Nature 4k
+#EXTGRP:Ultra HD
+http://2.56.164.181/channel/7773ee3a/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Ultra HD" tvg-id="hlsproxy-54643" tvg-logo="http://static.g-cdn.app/streams/nasha-sibir-4k.png" tvg-rec="7",Наша Сибирь 4k
+#EXTGRP:Ultra HD
+http://2.56.164.181/channel/3b8b5000/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Ultra HD" tvg-id="hlsproxy-1131" tvg-logo="http://static.g-cdn.app/streams/glazami-turista-4k.png" tvg-rec="7",Глазами Туриста 4k
+#EXTGRP:Ultra HD
+http://2.56.164.181/channel/n2ace6884/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Ultra HD" tvg-id="hlsproxy-792" tvg-logo="http://static.g-cdn.app/streams/travelxp-4k.png" tvg-rec="7",TravelXP 4K
+#EXTGRP:Ultra HD
+http://2.56.164.181/channel/n37e5cfd3/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Ultra HD" tvg-id="hlsproxy-100538" tvg-logo="http://static.g-cdn.app/streams/quadro-4k.png" tvg-rec="7",Quadro 4К
+#EXTGRP:Ultra HD
+http://2.56.164.181/channel/3f7a528a/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Ultra HD" tvg-id="hlsproxy-120" tvg-logo="http://static.g-cdn.app/streams/myzen-4k.png" tvg-rec="7",MyZen 4k
+#EXTGRP:Ultra HD
+http://2.56.164.181/channel/21f790d8/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Ultra HD" tvg-id="hlsproxy-213" tvg-logo="http://static.g-cdn.app/streams/museum-4k.png" tvg-rec="7",Museum 4k
+#EXTGRP:Ultra HD
+http://2.56.164.181/channel/n57890c33/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Ultra HD" tvg-id="hlsproxy-793" tvg-logo="http://static.g-cdn.app/streams/fashion-one-4k.png" tvg-rec="7",Fashion TV 4K
+#EXTGRP:Ultra HD
+http://2.56.164.181/channel/7dea40d5/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Беларусь" tvg-id="hlsproxy-217" tvg-logo="http://static.g-cdn.app/streams/belarus1-by.png" tvg-rec="7",Беларусь 1
+#EXTGRP:Беларусь
+http://2.56.164.181/channel/6d39ca70/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Беларусь" tvg-id="hlsproxy-217" tvg-logo="http://static.g-cdn.app/streams/belarus1-by-hd.png" tvg-rec="7",Беларусь 1 HD
+#EXTGRP:Беларусь
+http://2.56.164.181/channel/n47d29f54/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Беларусь" tvg-id="hlsproxy-218" tvg-logo="http://static.g-cdn.app/streams/belarus2.png" tvg-rec="7",Беларусь 2
+#EXTGRP:Беларусь
+http://2.56.164.181/channel/6d39ca71/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Беларусь" tvg-id="hlsproxy-218" tvg-logo="http://static.g-cdn.app/streams/belarus2-by-hd.png" tvg-rec="7",Беларусь 2 HD
+#EXTGRP:Беларусь
+http://2.56.164.181/channel/n47d22af5/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Беларусь" tvg-id="hlsproxy-220" tvg-logo="http://static.g-cdn.app/streams/belarus3-by.png" tvg-rec="7",Беларусь 3
+#EXTGRP:Беларусь
+http://2.56.164.181/channel/6d39ca72/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Беларусь" tvg-id="hlsproxy-220" tvg-logo="http://static.g-cdn.app/streams/belarus3-by-hd.png" tvg-rec="7",Беларусь 3 HD
+#EXTGRP:Беларусь
+http://2.56.164.181/channel/n47d1b696/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Беларусь" tvg-id="hlsproxy-221" tvg-logo="http://static.g-cdn.app/streams/belarus5.png" tvg-rec="7",Беларусь 5
+#EXTGRP:Беларусь
+http://2.56.164.181/channel/6d39ca74/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Беларусь" tvg-id="hlsproxy-221" tvg-logo="http://static.g-cdn.app/streams/belarus5-by-hd.png" tvg-rec="7",Беларусь 5 HD
+#EXTGRP:Беларусь
+http://2.56.164.181/channel/n47d0cdd8/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Беларусь" tvg-id="hlsproxy-219" tvg-logo="http://static.g-cdn.app/streams/belarus-24.png" tvg-rec="0",Беларусь 24
+#EXTGRP:Беларусь
+http://2.56.164.181/channel/39ff83e3/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Беларусь" tvg-id="hlsproxy-219" tvg-logo="http://static.g-cdn.app/streams/belarus-24-hd.png" tvg-rec="0",Беларусь 24 HD
+#EXTGRP:Беларусь
+http://2.56.164.181/channel/4d954e59/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Беларусь" tvg-id="hlsproxy-362" tvg-logo="http://static.g-cdn.app/streams/pervyj-informacionnyj-by-hd.png" tvg-rec="7",Первый Информационный HD
+#EXTGRP:Беларусь
+http://2.56.164.181/channel/n2752d47b/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Беларусь" tvg-id="hlsproxy-352" tvg-logo="http://static.g-cdn.app/streams/ont-by.png" tvg-rec="7",ОНТ
+#EXTGRP:Беларусь
+http://2.56.164.181/channel/54596ab/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Беларусь" tvg-id="hlsproxy-352" tvg-logo="http://static.g-cdn.app/streams/ont-by-hd.png" tvg-rec="7",ОНТ HD
+#EXTGRP:Беларусь
+http://2.56.164.181/channel/7d18e691/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Беларусь" tvg-id="hlsproxy-386" tvg-logo="http://static.g-cdn.app/streams/rtr-belarus-by-hd.png" tvg-rec="7",РТР Беларусь HD
+#EXTGRP:Беларусь
+http://2.56.164.181/channel/54cf21db/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Беларусь" tvg-id="hlsproxy-320" tvg-logo="http://static.g-cdn.app/streams/ntv-by-hd.png" tvg-rec="7",НТВ Беларусь HD
+#EXTGRP:Беларусь
+http://2.56.164.181/channel/3c12880a/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Беларусь" tvg-id="hlsproxy-9230" tvg-logo="http://static.g-cdn.app/streams/stv-by-hd.png" tvg-rec="7",СТВ Беларусь HD
+#EXTGRP:Беларусь
+http://2.56.164.181/channel/n5c7fcef2/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Беларусь" tvg-id="hlsproxy-19" tvg-logo="http://static.g-cdn.app/streams/channel8-by-hd.png" tvg-rec="7",8 Канал HD
+#EXTGRP:Беларусь
+http://2.56.164.181/channel/n26f70496/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Беларусь" tvg-id="hlsproxy-5013" tvg-logo="http://static.g-cdn.app/streams/belsat-by.png" tvg-rec="7",Белсат HD
+#EXTGRP:Беларусь
+http://2.56.164.181/channel/5964ebc8/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Россия +2ч" tvg-id="hlsproxy-362" tvg-logo="http://static.g-cdn.app/streams/pervyj-plus-2.png" tvg-rec="7" tvg-shift="+2",Первый канал (+2)
+#EXTGRP:Россия +2ч
+http://2.56.164.181/channel/77650ada/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Россия +2ч" tvg-id="hlsproxy-391" tvg-logo="http://static.g-cdn.app/streams/rossija1-plus-2.png" tvg-rec="7" tvg-shift="+2",Россия 1 (+2)
+#EXTGRP:Россия +2ч
+http://2.56.164.181/channel/7dacfb9c/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Россия +2ч" tvg-id="hlsproxy-319" tvg-logo="http://static.g-cdn.app/streams/ntv-plus-2.png" tvg-rec="7" tvg-shift="+2",НТВ (+2)
+#EXTGRP:Россия +2ч
+http://2.56.164.181/channel/1fbb1445/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Россия +2ч" tvg-id="hlsproxy-439" tvg-logo="http://static.g-cdn.app/streams/tnt-plus-2.png" tvg-rec="7" tvg-shift="+2",ТНТ (+2)
+#EXTGRP:Россия +2ч
+http://2.56.164.181/channel/39ef564b/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Россия +2ч" tvg-id="hlsproxy-382" tvg-logo="http://static.g-cdn.app/streams/rentv-plus-2.png" tvg-rec="7" tvg-shift="+2",РЕН ТВ (+2)
+#EXTGRP:Россия +2ч
+http://2.56.164.181/channel/44c3697a/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Россия +2ч" tvg-id="hlsproxy-407" tvg-logo="http://static.g-cdn.app/streams/sts-plus-2.png" tvg-rec="7" tvg-shift="+2",СТС (+2)
+#EXTGRP:Россия +2ч
+http://2.56.164.181/channel/n272786ee/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Россия +2ч" tvg-id="hlsproxy-246" tvg-logo="http://static.g-cdn.app/streams/domashnij-plus-2.png" tvg-rec="7" tvg-shift="+2",Домашний (+2)
+#EXTGRP:Россия +2ч
+http://2.56.164.181/channel/n6bd1b7d2/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Россия +2ч" tvg-id="hlsproxy-377" tvg-logo="http://static.g-cdn.app/streams/piatnica-plus-2.png" tvg-rec="7" tvg-shift="+2",Пятница (+2)
+#EXTGRP:Россия +2ч
+http://2.56.164.181/channel/n31c1b725/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Россия +2ч" tvg-id="hlsproxy-432" tvg-logo="http://static.g-cdn.app/streams/tv3-plus-2.png" tvg-rec="7" tvg-shift="+2",ТВ3 (+2)
+#EXTGRP:Россия +2ч
+http://2.56.164.181/channel/3daab10f/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Россия +2ч" tvg-id="hlsproxy-434" tvg-logo="http://static.g-cdn.app/streams/tvc-plus-2.png" tvg-rec="7" tvg-shift="+2",ТВЦ (+2)
+#EXTGRP:Россия +2ч
+http://2.56.164.181/channel/n521d304/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Россия +2ч" tvg-id="hlsproxy-259" tvg-logo="http://static.g-cdn.app/streams/zvezda-plus-2.png" tvg-rec="7" tvg-shift="+2",Звезда (+2)
+#EXTGRP:Россия +2ч
+http://2.56.164.181/channel/60c56a89/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Россия +2ч" tvg-id="hlsproxy-378" tvg-logo="http://static.g-cdn.app/streams/5kanal-plus-2.png" tvg-rec="7" tvg-shift="+2",5 канал (+2)
+#EXTGRP:Россия +2ч
+http://2.56.164.181/channel/2cc2192b/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Россия +2ч" tvg-id="hlsproxy-299" tvg-logo="http://static.g-cdn.app/streams/mir-plus-2.png" tvg-rec="7" tvg-shift="+2",Мир (+2)
+#EXTGRP:Россия +2ч
+http://2.56.164.181/channel/n6dde1472/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Россия +2ч" tvg-id="hlsproxy-325" tvg-logo="http://static.g-cdn.app/streams/otp-plus-2.png" tvg-rec="7" tvg-shift="+2",ОТР (+2)
+#EXTGRP:Россия +2ч
+http://2.56.164.181/channel/n607fe62a/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Россия +2ч" tvg-id="hlsproxy-395" tvg-logo="http://static.g-cdn.app/streams/rossija-k-plus-2.png" tvg-rec="7" tvg-shift="+2",Россия-Культура (+2)
+#EXTGRP:Россия +2ч
+http://2.56.164.181/channel/n544d32f1/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Россия +2ч" tvg-id="hlsproxy-392" tvg-logo="http://static.g-cdn.app/streams/match-plus-2.png" tvg-rec="7" tvg-shift="+2",Матч ТВ (+2)
+#EXTGRP:Россия +2ч
+http://2.56.164.181/channel/n6b3d5f45/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Россия +4ч" tvg-id="hlsproxy-362" tvg-logo="http://static.g-cdn.app/streams/pervyj-plus-4.png" tvg-rec="7" tvg-shift="+4",Первый канал (+4)
+#EXTGRP:Россия +4ч
+http://2.56.164.181/channel/77650b18/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Россия +4ч" tvg-id="hlsproxy-362" tvg-logo="http://static.g-cdn.app/streams/pervyj-hd-plus-4.png" tvg-rec="7" tvg-shift="+4",Первый канал HD (+4)
+#EXTGRP:Россия +4ч
+http://2.56.164.181/channel/n22231504/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Россия +4ч" tvg-id="hlsproxy-391" tvg-logo="http://static.g-cdn.app/streams/rossija1-plus-4.png" tvg-rec="7" tvg-shift="+4",Россия 1 (+4)
+#EXTGRP:Россия +4ч
+http://2.56.164.181/channel/7dacfbda/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Россия +4ч" tvg-id="hlsproxy-319" tvg-logo="http://static.g-cdn.app/streams/ntv-plus-4.png" tvg-rec="7" tvg-shift="+4",НТВ (+4)
+#EXTGRP:Россия +4ч
+http://2.56.164.181/channel/1fbb1483/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Россия +4ч" tvg-id="hlsproxy-439" tvg-logo="http://static.g-cdn.app/streams/tnt-plus-4.png" tvg-rec="7" tvg-shift="+4",ТНТ (+4)
+#EXTGRP:Россия +4ч
+http://2.56.164.181/channel/39ef5689/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Россия +4ч" tvg-id="hlsproxy-407" tvg-logo="http://static.g-cdn.app/streams/sts-plus-4.png" tvg-rec="7" tvg-shift="+4",СТС (+4)
+#EXTGRP:Россия +4ч
+http://2.56.164.181/channel/n272786b0/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Россия +4ч" tvg-id="hlsproxy-382" tvg-logo="http://static.g-cdn.app/streams/rentv-plus-4.png" tvg-rec="7" tvg-shift="+4",РЕН ТВ (+4)
+#EXTGRP:Россия +4ч
+http://2.56.164.181/channel/44c369b8/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Россия +4ч" tvg-id="hlsproxy-432" tvg-logo="http://static.g-cdn.app/streams/tv3-plus-4.png" tvg-rec="7" tvg-shift="+4",ТВ3 (+4)
+#EXTGRP:Россия +4ч
+http://2.56.164.181/channel/3daab14d/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Россия +4ч" tvg-id="hlsproxy-377" tvg-logo="http://static.g-cdn.app/streams/piatnica-plus-4.png" tvg-rec="7" tvg-shift="+4",Пятница (+4)
+#EXTGRP:Россия +4ч
+http://2.56.164.181/channel/n31c1b6e7/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Россия +4ч" tvg-id="hlsproxy-246" tvg-logo="http://static.g-cdn.app/streams/domashnij-plus-4.png" tvg-rec="7" tvg-shift="+4",Домашний (+4)
+#EXTGRP:Россия +4ч
+http://2.56.164.181/channel/n6bd1b794/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Россия +4ч" tvg-id="hlsproxy-259" tvg-logo="http://static.g-cdn.app/streams/zvezda-plus-4.png" tvg-rec="7" tvg-shift="+4",Звезда (+4)
+#EXTGRP:Россия +4ч
+http://2.56.164.181/channel/60c56ac7/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Россия +4ч" tvg-id="hlsproxy-434" tvg-logo="http://static.g-cdn.app/streams/tvc-plus-4.png" tvg-rec="7" tvg-shift="+4",ТВЦ (+4)
+#EXTGRP:Россия +4ч
+http://2.56.164.181/channel/n521d2c6/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Россия +4ч" tvg-id="hlsproxy-378" tvg-logo="http://static.g-cdn.app/streams/5kanal-plus-4.png" tvg-rec="7" tvg-shift="+4",5 канал (+4)
+#EXTGRP:Россия +4ч
+http://2.56.164.181/channel/2cc21969/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Россия +4ч" tvg-id="hlsproxy-299" tvg-logo="http://static.g-cdn.app/streams/mir-plus-4.png" tvg-rec="7" tvg-shift="+4",Мир (+4)
+#EXTGRP:Россия +4ч
+http://2.56.164.181/channel/n6dde1434/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Россия +4ч" tvg-id="hlsproxy-392" tvg-logo="http://static.g-cdn.app/streams/match-plus-4.png" tvg-rec="7" tvg-shift="+4",Матч ТВ (+4)
+#EXTGRP:Россия +4ч
+http://2.56.164.181/channel/n6b3d5f07/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Россия +7ч" tvg-id="hlsproxy-362" tvg-logo="http://static.g-cdn.app/streams/pervyj-plus-7.png" tvg-rec="7" tvg-shift="+7",Первый канал (+7)
+#EXTGRP:Россия +7ч
+http://2.56.164.181/channel/77650b75/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Россия +7ч" tvg-id="hlsproxy-391" tvg-logo="http://static.g-cdn.app/streams/rossija1-plus-7.png" tvg-rec="7" tvg-shift="+7",Россия 1 (+7)
+#EXTGRP:Россия +7ч
+http://2.56.164.181/channel/7dacfc37/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Россия +7ч" tvg-id="hlsproxy-319" tvg-logo="http://static.g-cdn.app/streams/ntv-plus-7.png" tvg-rec="7" tvg-shift="+7",НТВ (+7)
+#EXTGRP:Россия +7ч
+http://2.56.164.181/channel/1fbb14e0/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Россия +7ч" tvg-id="hlsproxy-439" tvg-logo="http://static.g-cdn.app/streams/tnt-plus-7.png" tvg-rec="7" tvg-shift="+7",ТНТ (+7)
+#EXTGRP:Россия +7ч
+http://2.56.164.181/channel/39ef56e6/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Россия +7ч" tvg-id="hlsproxy-382" tvg-logo="http://static.g-cdn.app/streams/rentv-plus-7.png" tvg-rec="7" tvg-shift="+7",РЕН ТВ (+7)
+#EXTGRP:Россия +7ч
+http://2.56.164.181/channel/44c36a15/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Россия +7ч" tvg-id="hlsproxy-407" tvg-logo="http://static.g-cdn.app/streams/sts-plus-7.png" tvg-rec="7" tvg-shift="+7",СТС (+7)
+#EXTGRP:Россия +7ч
+http://2.56.164.181/channel/n27278653/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Россия +7ч" tvg-id="hlsproxy-246" tvg-logo="http://static.g-cdn.app/streams/domashnij-plus-7.png" tvg-rec="7" tvg-shift="+7",Домашний (+7)
+#EXTGRP:Россия +7ч
+http://2.56.164.181/channel/n6bd1b737/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Россия +7ч" tvg-id="hlsproxy-377" tvg-logo="http://static.g-cdn.app/streams/piatnica-plus-7.png" tvg-rec="7" tvg-shift="+7",Пятница (+7)
+#EXTGRP:Россия +7ч
+http://2.56.164.181/channel/n31c1b68a/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Россия +7ч" tvg-id="hlsproxy-432" tvg-logo="http://static.g-cdn.app/streams/tv3-plus-7.png" tvg-rec="7" tvg-shift="+7",ТВ3 (+7)
+#EXTGRP:Россия +7ч
+http://2.56.164.181/channel/3daab1aa/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Россия +7ч" tvg-id="hlsproxy-434" tvg-logo="http://static.g-cdn.app/streams/tvc-plus-7.png" tvg-rec="7" tvg-shift="+7",ТВЦ (+7)
+#EXTGRP:Россия +7ч
+http://2.56.164.181/channel/n521d269/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Россия +7ч" tvg-id="hlsproxy-259" tvg-logo="http://static.g-cdn.app/streams/zvezda-plus-7.png" tvg-rec="7" tvg-shift="+7",Звезда (+7)
+#EXTGRP:Россия +7ч
+http://2.56.164.181/channel/60c56b24/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Россия +7ч" tvg-id="hlsproxy-378" tvg-logo="http://static.g-cdn.app/streams/5kanal-plus-7.png" tvg-rec="7" tvg-shift="+7",5 канал (+7)
+#EXTGRP:Россия +7ч
+http://2.56.164.181/channel/2cc219c6/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Россия +7ч" tvg-id="hlsproxy-299" tvg-logo="http://static.g-cdn.app/streams/mir-plus-7.png" tvg-rec="7" tvg-shift="+7",Мир (+7)
+#EXTGRP:Россия +7ч
+http://2.56.164.181/channel/n6dde13d7/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Россия +7ч" tvg-id="hlsproxy-325" tvg-logo="http://static.g-cdn.app/streams/otp-plus-7.png" tvg-rec="7" tvg-shift="+7",ОТР (+7)
+#EXTGRP:Россия +7ч
+http://2.56.164.181/channel/n607fe58f/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Россия +7ч" tvg-id="hlsproxy-395" tvg-logo="http://static.g-cdn.app/streams/rossija-k-plus-7.png" tvg-rec="7" tvg-shift="+7",Россия-Культура (+7)
+#EXTGRP:Россия +7ч
+http://2.56.164.181/channel/n544d3256/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Россия +7ч" tvg-id="hlsproxy-392" tvg-logo="http://static.g-cdn.app/streams/match-plus-7.png" tvg-rec="7" tvg-shift="+7",Матч ТВ (+7)
+#EXTGRP:Россия +7ч
+http://2.56.164.181/channel/n6b3d5eaa/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Baltic" tvg-id="hlsproxy-8161" tvg-logo="http://static.g-cdn.app/streams/lnk-hd-lt.png" tvg-rec="7",LNK HD
+#EXTGRP:Baltic
+http://2.56.164.181/channel/n3f3505f5/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Baltic" tvg-id="hlsproxy-8183" tvg-logo="http://static.g-cdn.app/streams/lrt-hd-lt.png" tvg-rec="7",LRT HD
+#EXTGRP:Baltic
+http://2.56.164.181/channel/n3ef8909a/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Baltic" tvg-id="hlsproxy-8183" tvg-logo="http://static.g-cdn.app/streams/lrt-plus-lt-hd.png" tvg-rec="7",LRT Plus HD
+#EXTGRP:Baltic
+http://2.56.164.181/channel/n2a928708/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Baltic" tvg-id="hlsproxy-51792" tvg-logo="http://static.g-cdn.app/streams/tv1-hd-lt.png" tvg-rec="7",TV1 HD
+#EXTGRP:Baltic
+http://2.56.164.181/channel/n3129569b/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Baltic" tvg-id="hlsproxy-8255" tvg-logo="http://static.g-cdn.app/streams/tv3-hd-lt.png" tvg-rec="7",TV3 HD LT
+#EXTGRP:Baltic
+http://2.56.164.181/channel/703798a5/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Baltic" tvg-id="3plus-hd" tvg-logo="http://static.g-cdn.app/streams/3plus-hd.png" tvg-rec="7",TV3 Plus HD LT
+#EXTGRP:Baltic
+http://2.56.164.181/channel/n667b2493/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Baltic" tvg-id="hlsproxy-8256" tvg-logo="http://static.g-cdn.app/streams/tv6-hd-lt.png" tvg-rec="7",TV6 HD LT
+#EXTGRP:Baltic
+http://2.56.164.181/channel/eea4a68/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Baltic" tvg-id="hlsproxy-52831" tvg-logo="http://static.g-cdn.app/streams/tv8-hd-lt.png" tvg-rec="7",TV8 HD LT
+#EXTGRP:Baltic
+http://2.56.164.181/channel/78b6c0ea/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Baltic" tvg-id="hlsproxy-2645" tvg-logo="http://static.g-cdn.app/streams/delfi-hd-lt.png" tvg-rec="7",Delfi HD
+#EXTGRP:Baltic
+http://2.56.164.181/channel/77d36b06/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Baltic" tvg-id="hlsproxy-8159" tvg-logo="http://static.g-cdn.app/streams/info-tv-lt.png" tvg-rec="7",Info TV HD
+#EXTGRP:Baltic
+http://2.56.164.181/channel/n406239e0/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Baltic" tvg-id="hlsproxy-493" tvg-logo="http://static.g-cdn.app/streams/btv-hd-lt.png" tvg-rec="7",BTV HD
+#EXTGRP:Baltic
+http://2.56.164.181/channel/n4febef10/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Baltic" tvg-id="hlsproxy-8162" tvg-logo="http://static.g-cdn.app/streams/lietuvos-rytas-hd-lt.png" tvg-rec="7",Lietuvos Rytas HD
+#EXTGRP:Baltic
+http://2.56.164.181/channel/n1697e8cc/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Baltic" tvg-id="hlsproxy-8156" tvg-logo="http://static.g-cdn.app/streams/balticum-lt.png" tvg-rec="7",Balticum HD
+#EXTGRP:Baltic
+http://2.56.164.181/channel/6c36b10b/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Baltic" tvg-id="hlsproxy-51125" tvg-logo="http://static.g-cdn.app/streams/balticum-auksinis-lt.png" tvg-rec="7",Balticum Auksinis HD
+#EXTGRP:Baltic
+http://2.56.164.181/channel/n26895be/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Baltic" tvg-id="hlsproxy-4029" tvg-logo="http://static.g-cdn.app/streams/balticum-platinum-lt-hd.png" tvg-rec="7",Balticum Platinum HD
+#EXTGRP:Baltic
+http://2.56.164.181/channel/n41bbdfdf/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Baltic" tvg-id="hlsproxy-9208" tvg-logo="http://static.g-cdn.app/streams/siauliu-televizija-hd-lt.png" tvg-rec="7",Siauliu Televizija HD
+#EXTGRP:Baltic
+http://2.56.164.181/channel/n34746ef1/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Baltic" tvg-id="hlsproxy-8179" tvg-logo="http://static.g-cdn.app/streams/sport1-hd-lt.png" tvg-rec="7",Sport 1 HD LT
+#EXTGRP:Baltic
+http://2.56.164.181/channel/n5d391e7/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Baltic" tvg-id="hlsproxy-54185" tvg-logo="http://static.g-cdn.app/streams/kidzone-lt.png" tvg-rec="7",Kidzone Max HD LT
+#EXTGRP:Baltic
+http://2.56.164.181/channel/113dba6a/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Baltic" tvg-id="hlsproxy-54215" tvg-logo="http://static.g-cdn.app/streams/nickelodeon-lt.png" tvg-rec="7",Nickelodeon LT
+#EXTGRP:Baltic
+http://2.56.164.181/channel/b93ce3b/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Baltic" tvg-id="hlsproxy-498" tvg-logo="http://static.g-cdn.app/streams/ltv1-lv-hd.png" tvg-rec="7",LTV1 HD
+#EXTGRP:Baltic
+http://2.56.164.181/channel/63738281/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Baltic" tvg-id="hlsproxy-8408" tvg-logo="http://static.g-cdn.app/streams/ltv3-hd-lv.png" tvg-rec="7",TV3 HD LV
+#EXTGRP:Baltic
+http://2.56.164.181/channel/703798a7/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Baltic" tvg-id="hlsproxy-499" tvg-logo="http://static.g-cdn.app/streams/ltv3-life-hd-lv.png" tvg-rec="7",TV3 Life HD LV
+#EXTGRP:Baltic
+http://2.56.164.181/channel/10c8eb51/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Baltic" tvg-id="3-plus-hd-lv" tvg-logo="http://static.g-cdn.app/streams/3-plus-hd-lv.png" tvg-rec="7",TV3 Plus HD LV
+#EXTGRP:Baltic
+http://2.56.164.181/channel/n667b2491/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Baltic" tvg-id="hlsproxy-22010" tvg-logo="http://static.g-cdn.app/streams/tv4-latvija-lv.png" tvg-rec="7",TV4 Latvija HD
+#EXTGRP:Baltic
+http://2.56.164.181/channel/266f8ed9/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Baltic" tvg-id="hlsproxy-8409" tvg-logo="http://static.g-cdn.app/streams/ltv6-hd-lv.png" tvg-rec="7",TV6 HD LV
+#EXTGRP:Baltic
+http://2.56.164.181/channel/eea4a6a/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Baltic" tvg-id="hlsproxy-500" tvg-logo="http://static.g-cdn.app/streams/ltv7-hd-lv.png" tvg-rec="7",LTV7 HD
+#EXTGRP:Baltic
+http://2.56.164.181/channel/63763cbb/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Baltic" tvg-id="hlsproxy-8571" tvg-logo="http://static.g-cdn.app/streams/tv24-lv.png" tvg-rec="7",TV24 HD
+#EXTGRP:Baltic
+http://2.56.164.181/channel/c151cc0/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Baltic" tvg-id="hlsproxy-134" tvg-logo="http://static.g-cdn.app/streams/360tv-lv.png" tvg-rec="7",360 TV HD
+#EXTGRP:Baltic
+http://2.56.164.181/channel/n46c1bbf1/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Baltic" tvg-id="hlsproxy-54212" tvg-logo="http://static.g-cdn.app/streams/kino7-lv-hd.png" tvg-rec="7",Kino 7 HD
+#EXTGRP:Baltic
+http://2.56.164.181/channel/n5ad50e52/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Baltic" tvg-id="hlsproxy-55294" tvg-logo="http://static.g-cdn.app/streams/kanal7-baltic-lv-hd.png" tvg-rec="7",Kanal 7 HD LV
+#EXTGRP:Baltic
+http://2.56.164.181/channel/n1fd7c0d0/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Baltic" tvg-id="hlsproxy-54951" tvg-logo="http://static.g-cdn.app/streams/stv-lv.png" tvg-rec="7",S-TV Pirma HD
+#EXTGRP:Baltic
+http://2.56.164.181/channel/7eabd6fb/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Baltic" tvg-id="hlsproxy-54179" tvg-logo="http://static.g-cdn.app/streams/re-lv.png" tvg-rec="7",RE TV HD
+#EXTGRP:Baltic
+http://2.56.164.181/channel/6a5ddc5/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Baltic" tvg-id="hlsproxy-54902" tvg-logo="http://static.g-cdn.app/streams/best4sport-hd-lv.png" tvg-rec="7",Best4Sport TV HD
+#EXTGRP:Baltic
+http://2.56.164.181/channel/18a61176/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Baltic" tvg-id="hlsproxy-55304" tvg-logo="http://static.g-cdn.app/streams/best4sport2-lv-hd.png" tvg-rec="7",Best4Sport 2 TV HD
+#EXTGRP:Baltic
+http://2.56.164.181/channel/2790a108/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Baltic" tvg-id="hlsproxy-54185" tvg-logo="http://static.g-cdn.app/streams/kidzone-lv-hd.png" tvg-rec="7",Kidzone Max HD LV
+#EXTGRP:Baltic
+http://2.56.164.181/channel/113dba6c/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Baltic" tvg-id="hlsproxy-8410" tvg-logo="http://static.g-cdn.app/streams/tv3-mini-hd-lv.png" tvg-rec="7",TV3 Mini HD
+#EXTGRP:Baltic
+http://2.56.164.181/channel/n7351e782/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Baltic" tvg-id="hlsproxy-54215" tvg-logo="http://static.g-cdn.app/streams/nickelodeon-lv.png" tvg-rec="7",Nickelodeon LV
+#EXTGRP:Baltic
+http://2.56.164.181/channel/b93ce3d/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Baltic" tvg-id="hlsproxy-135" tvg-logo="http://static.g-cdn.app/streams/nick-jr-lv.png" tvg-rec="7",Nick Jr. HD LV
+#EXTGRP:Baltic
+http://2.56.164.181/channel/19cd8a8f/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Baltic" tvg-id="hlsproxy-340" tvg-logo="http://static.g-cdn.app/streams/etv-hd-ee.png" tvg-rec="7",ETV HD
+#EXTGRP:Baltic
+http://2.56.164.181/channel/n4acd6533/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Baltic" tvg-id="hlsproxy-51687" tvg-logo="http://static.g-cdn.app/streams/etv-plus-hd-ee.png" tvg-rec="7",ETV Plus HD
+#EXTGRP:Baltic
+http://2.56.164.181/channel/n2bb7aa0f/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Baltic" tvg-id="hlsproxy-52451" tvg-logo="http://static.g-cdn.app/streams/etv2-hd-ee.png" tvg-rec="7",ETV 2 HD
+#EXTGRP:Baltic
+http://2.56.164.181/channel/32ec9d3b/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Baltic" tvg-id="hlsproxy-52859" tvg-logo="http://static.g-cdn.app/streams/kanal2-hd-ee.png" tvg-rec="7",Kanal 2 HD
+#EXTGRP:Baltic
+http://2.56.164.181/channel/n613a5a1/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Baltic" tvg-id="hlsproxy-8408" tvg-logo="http://static.g-cdn.app/streams/tv3-ee-hd.png" tvg-rec="7",TV3 HD EE
+#EXTGRP:Baltic
+http://2.56.164.181/channel/703797bd/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Baltic" tvg-id="hlsproxy-499" tvg-logo="http://static.g-cdn.app/streams/tv3-life-ee-hd.png" tvg-rec="7",TV3 Life HD EE
+#EXTGRP:Baltic
+http://2.56.164.181/channel/10c8ea67/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Baltic" tvg-id="hlsproxy-8409" tvg-logo="http://static.g-cdn.app/streams/tv6-ee-hd.png" tvg-rec="7",TV6 HD EE
+#EXTGRP:Baltic
+http://2.56.164.181/channel/eea4980/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Baltic" tvg-id="duo4-ee-hd" tvg-logo="http://static.g-cdn.app/streams/duo4-ee-hd.png" tvg-rec="7",Duo4 HD EE
+#EXTGRP:Baltic
+http://2.56.164.181/channel/7d373c52/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Baltic" tvg-id="duo5-ee-hd" tvg-logo="http://static.g-cdn.app/streams/duo5-ee-hd.png" tvg-rec="7",Duo5 HD EE
+#EXTGRP:Baltic
+http://2.56.164.181/channel/n4de2886d/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Baltic" tvg-id="hlsproxy-55294" tvg-logo="http://static.g-cdn.app/streams/kanal7-baltic-ee-hd.png" tvg-rec="7",Kanal 7 HD EE
+#EXTGRP:Baltic
+http://2.56.164.181/channel/n1fd7c1ba/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Baltic" tvg-id="hlsproxy-55016" tvg-logo="http://static.g-cdn.app/streams/eesti-kanal-ee.png" tvg-rec="7",Eesti Kanal
+#EXTGRP:Baltic
+http://2.56.164.181/channel/n6abf426d/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Baltic" tvg-id="hlsproxy-81" tvg-logo="http://static.g-cdn.app/streams/fox-ee-hd.png" tvg-rec="7",FX HD EE
+#EXTGRP:Baltic
+http://2.56.164.181/channel/147ce00e/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Baltic" tvg-id="hlsproxy-54215" tvg-logo="http://static.g-cdn.app/streams/nickelodeon-ee.png" tvg-rec="7",Nickelodeon EE
+#EXTGRP:Baltic
+http://2.56.164.181/channel/b93cd53/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Baltic" tvg-id="hlsproxy-135" tvg-logo="http://static.g-cdn.app/streams/nick-jr-ee.png" tvg-rec="7",Nick Jr. EE
+#EXTGRP:Baltic
+http://2.56.164.181/channel/n14aed721/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Baltic" tvg-id="tv3-sport-lt-hd" tvg-logo="http://static.g-cdn.app/streams/tv3-sport-lt-hd.png" tvg-rec="7",Go3 Sport 1 HD
+#EXTGRP:Baltic
+http://2.56.164.181/channel/n7d1733bc/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Baltic" tvg-id="tv3-sport2-lt-hd" tvg-logo="http://static.g-cdn.app/streams/tv3-sport2-lt-hd.png" tvg-rec="7",Go3 Sport 2 HD
+#EXTGRP:Baltic
+http://2.56.164.181/channel/n7d16bf5d/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Baltic" tvg-id="tv3-sport3-lt-hd" tvg-logo="http://static.g-cdn.app/streams/tv3-sport3-lt-hd.png" tvg-rec="7",Go3 Sport 3 HD
+#EXTGRP:Baltic
+http://2.56.164.181/channel/n7d164afe/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Baltic" tvg-id="tv3-sport-open-lt-hd" tvg-logo="http://static.g-cdn.app/streams/tv3-sport-open-lt-hd.png" tvg-rec="7",Go3 Sport Open HD
+#EXTGRP:Baltic
+http://2.56.164.181/channel/n31e27d27/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Baltic" tvg-id="tv3-film-hd-lt" tvg-logo="http://static.g-cdn.app/streams/tv3-film-hd-lt.png" tvg-rec="7",Go3 Films HD
+#EXTGRP:Baltic
+http://2.56.164.181/channel/55309e5a/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Baltic" tvg-id="hlsproxy-10245" tvg-logo="http://static.g-cdn.app/streams/filmzone-lt-hd.png" tvg-rec="7",Filmzone HD
+#EXTGRP:Baltic
+http://2.56.164.181/channel/224a9a34/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Baltic" tvg-id="hlsproxy-10244" tvg-logo="http://static.g-cdn.app/streams/filmzone-plus-lt-hd.png" tvg-rec="7",Filmzone Plus HD
+#EXTGRP:Baltic
+http://2.56.164.181/channel/n2ee52116/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Baltic" tvg-id="hlsproxy-54647" tvg-logo="http://static.g-cdn.app/streams/kidzone-mini-lt-hd.png" tvg-rec="7",Kidzone Mini HD
+#EXTGRP:Baltic
+http://2.56.164.181/channel/1292f4df/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Baltic" tvg-id="hlsproxy-54245" tvg-logo="http://static.g-cdn.app/streams/epic-drama-lt-hd.png" tvg-rec="7",Epic Drama HD
+#EXTGRP:Baltic
+http://2.56.164.181/channel/n9fb3b88/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Baltic" tvg-id="hlsproxy-100250" tvg-logo="http://static.g-cdn.app/streams/viasat-kino-lt-hd.png" tvg-rec="7",Viasat Kino HD
+#EXTGRP:Baltic
+http://2.56.164.181/channel/510f36ad/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Baltic" tvg-id="hlsproxy-7103" tvg-logo="http://static.g-cdn.app/streams/viasat-kino-action-lt-hd.png" tvg-rec="7",Viasat Kino Action HD
+#EXTGRP:Baltic
+http://2.56.164.181/channel/1ae72835/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Baltic" tvg-id="hlsproxy-197" tvg-logo="http://static.g-cdn.app/streams/viasat-nature-lt-hd.png" tvg-rec="7",Viasat Nature HD
+#EXTGRP:Baltic
+http://2.56.164.181/channel/1412d4a5/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Baltic" tvg-id="hlsproxy-196" tvg-logo="http://static.g-cdn.app/streams/viasat-history-lt-hd.png" tvg-rec="7",Viasat History HD
+#EXTGRP:Baltic
+http://2.56.164.181/channel/n4a544f88/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Baltic" tvg-id="hlsproxy-194" tvg-logo="http://static.g-cdn.app/streams/viasat-explore-lt-hd.png" tvg-rec="7",Viasat Explore HD
+#EXTGRP:Baltic
+http://2.56.164.181/channel/n560c99e7/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Baltic" tvg-id="hlsproxy-100112" tvg-logo="http://static.g-cdn.app/streams/duo3-lv-hd.png" tvg-rec="7",Duo3 HD
+#EXTGRP:Baltic
+http://2.56.164.181/channel/na0d36b1/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4
+#EXTINF:0 group-title="Baltic" tvg-id="hlsproxy-100600" tvg-logo="http://static.g-cdn.app/streams/duo6-lt-hd.png" tvg-rec="7",Duo6 HD
+#EXTGRP:Baltic
+http://2.56.164.181/channel/na0bd994/index.m3u8?q=94526308885ae17c240c4b63ace7ffe4#EXTINF:0 group-title="Anime" tvg-id="anime-tv" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/15569/logo_256_1668760387.png" tvg-rec="0",Anime TV
+#EXTGRP:Anime
+https://free-tv.me/iptv/catcats/35676
+#EXTINF:0 group-title="Anime" tvg-id="anime-tv" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/15569/logo_256_1668760387.png" tvg-rec="0",Anime TV2
+#EXTGRP:Anime
+https://free-tv.me/iptv/catcats/40954
+#EXTINF:0 group-title="Anime" tvg-id="anime-tv" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/15569/logo_256_1668760387.png" tvg-rec="0",Anime TV3
+#EXTGRP:Anime
+https://free-tv.me/iptv/catcats/36798
+#EXTINF:0 group-title="Anime" tvg-id="anime-tv" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/15569/logo_256_1668760387.png" tvg-rec="0",Anime TV4
+#EXTGRP:Anime
+https://free-tv.me/iptv/catcats/37524
+#EXTINF:0 group-title="Anime" tvg-id="anime-tv" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/15569/logo_256_1668760387.png" tvg-rec="0",Anime TV5
+#EXTGRP:Anime
+https://free-tv.me/iptv/catcats/38311
+#EXTINF:0 group-title="Anime" tvg-id="anime-tv" tvg-logo="https://img.catcast.tv/uploads/28042024/logos/46775-662e075a0f6a2.png" tvg-rec="0",Том и Джери
+#EXTGRP:Anime
+https://free-tv.me/iptv/catcats/46775
+#EXTINF:0 group-title="Новости" tvg-id="news" tvg-logo="https://cdn-st1.smotrim.ru/vh/pictures/svg/486/730/4.svg" tvg-rec="0",Соловьев LIVE
+#EXTGRP:Новости
+https://player.smotrim.ru/iframe/stream/live_id/63338
+#EXTINF:0 group-title="Anime" tvg-id="anime-tv" tvg-logo="https://img.catcast.tv/uploads/31102020/logos/39373-5f9dbfc65b650.png" tvg-rec="0",Jetix
+#EXTGRP:Anime
+https://free-tv.me/iptv/catcats/39373
+#EXTINF:0 group-title="fun" tvg-id="fun" tvg-logo="https://img.catcast.tv/uploads/24122020/logos/39567-5fe497beed5c2.png" tvg-rec="0",Наша Russia
+#EXTGRP:Развлечение
+https://free-tv.me/iptv/catcats/39567
+#EXTINF:0 group-title="fun" tvg-id="fun" tvg-logo="https://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3N0c19raWRzX25ldy5wbmc=?width=270&height=150" tvg-rec="0",CTC Kids
+#EXTGRP:Развлечение
+http://stream02.vnet.am/DisneyChannel/mono.m3u8
+#EXTINF:0 group-title="fun" tvg-id="fun" tvg-logo="https://epgx.site/p/sts-love.png" tvg-rec="0",CTC Love
+#EXTGRP:Развлечение
+http://178.212.71.253:8002/play/a00r/index.m3u8
+#EXTINF:0 group-title="fun" tvg-id="fun" tvg-logo="https://epgx.site/p/cartoon-network.png" tvg-rec="0",Cartoon Network
+#EXTGRP:Развлечение
+http://stream01.vnet.am/Kinosemya/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="fun" tvg-id="fun" tvg-logo="https://epgx.site/p/ani.png" tvg-rec="0",Ani
+#EXTGRP:Развлечение
+http://stv.mediacdn.ru/live/cdn/ani/playlist_sdhigher.m3u8
